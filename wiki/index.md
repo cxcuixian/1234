@@ -1,0 +1,283 @@
+# Wiki Index
+
+> Auto-generated knowledge base directory
+
+> Note: Text in backticks after page names shows aliases — alternative names, abbreviations, or translations.
+
+
+## Entities
+
+- [[entities/escitalopram|escitalopram]] `aliases: Lexapro, Cipralex, Escitalopram oxalate` - Escitalopram is an antidepressant medication identified in the source as being linked to the inducti
+- [[entities/bupropion|bupropion]] `aliases: Wellbutrin, Zyban` - Bupropion is an antidepressant medication listed in the source as associated with the induction of [
+- [[entities/fluoxetine|fluoxetine]] `aliases: Prozac` - Fluoxetine is an antidepressant medication associated in the source with the induction of [[Extrapyr
+- [[entities/meningitis|meningitis]] `aliases: Inflammation of the meninges` - Meningitis is identified as a non-medication-related cause that can produce [[concepts/extrapyramida
+- [[entities/sertraline|sertraline]] `aliases: Zoloft, Lustral` - Sertraline is an antidepressant medication that the source lists as associated with the induction of
+- [[entities/duloxetine|duloxetine]] `aliases: Duloxetine hydrochloride, Cymbalta, Irenka` - Duloxetine is an antidepressant medication identified in the source as having been associated with t
+- [[entities/rigidity|rigidity]] `aliases: Muscle rigidity, Parkinsonian rigidity` - Rigidity is a neurological movement abnormality and a characteristic parkinsonian manifestation asso
+- [[entities/bradykinesia|bradykinesia]] `aliases: Bradykinesis, Slowness of movement` - Bradykinesia is slowness of movement and a characteristic parkinsonian symptom within [[concepts/ext
+- [[entities/tremor|tremor]] - Tremor is an involuntary, rhythmic movement and one of the characteristic parkinsonian manifestation
+- [[entities/chlorpromazine|chlorpromazine]] `aliases: Thorazine, Largactil` - Chlorpromazine is a conventional, or [[concepts/typical-antipsychotic|typical antipsychotic]], medic
+- [[entities/lurasidone|lurasidone]] `aliases: Lurasidone hydrochloride, Latuda` - Lurasidone is a second-generation [[concepts/atypical-antipsychotic|atypical antipsychotic]] associa
+- [[entities/clozapine|clozapine]] `aliases: Clozaril` - Clozapine is an atypical antipsychotic presented as a possible substitute when another antipsychotic
+- [[entities/benztropine|benztropine]] `aliases: Benztropine mesylate, Cogentin` - Benztropine is an [[concepts/anticholinergic-medications|anticholinergic medication]] used among the
+- [[entities/procyclidine|procyclidine]] `aliases: Procyclidine hydrochloride, Kemadrin` - Procyclidine is an [[concepts/anticholinergic-medications|anticholinergic medication]] used to rever
+- [[entities/deutetrabenazine|deutetrabenazine]] `aliases: Austedo` - Deutetrabenazine is a medication used as a targeted treatment option for [[concepts/tardive-dyskines
+- [[entities/tetrabenazine|tetrabenazine]] `aliases: Xenazine, TBZ` - Tetrabenazine is a medication used to treat persistent [[concepts/tardive-dyskinesia|tardive dyskine
+- [[entities/propranolol|propranolol]] `aliases: Propranolol hydrochloride, Inderal` - Propranolol is a beta blocker described as a frequently used medication for treating [[concepts/akat
+- [[entities/amantadine|amantadine]] `aliases: Symmetrel` - Amantadine is a medication that may be used occasionally to treat [[concepts/parkinsonism|pseudopark
+- [[entities/extrapyramidal-symptom-rating-scale|extrapyramidal-symptom-rating-scale]] `aliases: ESRS, Extrapyramidal Symptom Rating Scale (ESRS)` - The Extrapyramidal Symptom Rating Scale is a clinical rating instrument used to evaluate the severit
+- [[entities/abnormal-involuntary-movement-scale|abnormal-involuntary-movement-scale]] `aliases: AIMS, Abnormal Involuntary Movement Scale (AIMS)` - The Abnormal Involuntary Movement Scale, commonly abbreviated [[entities/abnormal-involuntary-moveme
+- [[entities/aripiprazole|aripiprazole]] `aliases: Abilify` - Aripiprazole is an [[Atypical antipsychotic|atypical antipsychotic]] and a partial agonist at [[dopa
+- [[entities/norepinephrine-dopamine-reuptake-inhibitors|norepinephrine-dopamine-reuptake-inhibitors]] `aliases: NDRI, NDRIs, Norepinephrine-dopamine reuptake inhibitor` - Norepinephrine-dopamine reuptake inhibitors are an antidepressant class discussed among medications 
+- [[entities/barnes-akathisia-rating-scale|barnes-akathisia-rating-scale]] `aliases: BARS, Barnes Akathisia Scale` - The Barnes Akathisia Rating Scale (BARS) is a clinical instrument used to assess the severity of [[c
+- [[entities/simpson-angus-scale|simpson-angus-scale]] `aliases: SAS, Simpson–Angus Scale` - The Simpson-Angus Scale is a clinical rating scale used to assess the severity of extrapyramidal sym
+- [[entities/selective-serotonin-reuptake-inhibitors|selective-serotonin-reuptake-inhibitors]] `aliases: SSRI, SSRIs` - Selective serotonin reuptake inhibitors are an antidepressant class associated in the source with [[
+- [[entities/metoclopramide|metoclopramide]] `aliases: Metoclopramide antiemetic` - Metoclopramide is an antiemetic medication whose anti-dopaminergic activity can produce [[concepts/e
+- [[entities/serotonin-norepinephrine-reuptake-inhibitors|serotonin-norepinephrine-reuptake-inhibitors]] `aliases: SNRI, SNRIs, Serotonin–norepinephrine reuptake inhibitors` - Serotonin-norepinephrine reuptake inhibitors are an antidepressant class associated with [[Extrapyra
+- [[entities/haloperidol|haloperidol]] `aliases: Haldol` - Haloperidol is a typical antipsychotic medication and a dopamine D2 receptor antagonist. It is ident
+- [[entities/catie-trial|catie-trial]] `aliases: Clinical Antipsychotic Trials for Intervention Effectiveness, CATIE` - The CATIE trial, or Clinical Antipsychotic Trials for Intervention Effectiveness, was a large clinic
+- [[entities/fluphenazine|fluphenazine]] `aliases: Fluphenazine antipsychotic, Prolixin` - Fluphenazine is a typical antipsychotic medication and a dopamine D2 receptor antagonist associated 
+- [[entities/星宇股份|星宇股份]] `aliases: 星宇, 星宇车灯` - 星宇股份 is evaluated negatively in the source note across the dimensions of trust, credibility, executi
+- [[entities/覆铜板|覆铜板]] `aliases: Copper-clad laminate, CCL, Copper-clad board` - Copper-clad laminate is a foundational material used in printed circuit board production. It is posi
+- [[entities/巴菲特|巴菲特]] `aliases: Warren Buffett, 沃伦·巴菲特` - 巴菲特 is presented as an investment thinker whose principles are widely recognized but poorly followed
+- [[entities/开市客|开市客]] `aliases: Costco, Costco Wholesale` - 开市客 is presented as a concrete example of a strong business model whose quality can be evaluated thr
+- [[entities/2026-09-06|2026-09-06]] - This source is a broad set of reflective notes connecting mathematics, science, education, work, inv
+- [[entities/新疆克拉玛依|新疆克拉玛依]] `aliases: Karamay, Karamay City, Xinjiang` - Karamay, Xinjiang is a city in Xinjiang, China. It is discussed alongside [[entities/乌兰察布|Ulanqab]],
+- [[entities/乌兰察布|乌兰察布]] `aliases: Ulanqab` - [[乌兰察布]] is a city-level region in Inner Mongolia, China. The source discusses it alongside [[宁夏中卫]]
+- [[entities/宁夏中卫|宁夏中卫]] `aliases: Zhongwei, Ningxia Zhongwei` - Ningxia Zhongwei is a city in Ningxia, China. The source lists it alongside [[entities/乌兰察布|Ulanqab]
+- [[entities/甘肃庆阳|甘肃庆阳]] `aliases: Qingyang, Gansu Qingyang, 庆阳市` - 甘肃庆阳 is a city in Gansu, China, and is discussed as a potential location for infrastructure or indus
+- [[entities/市场定价权|市场定价权]] `aliases: Pricing Power, Market Pricing Authority` - Market Pricing Power refers to the ability to influence or determine prices within a market rather t
+- [[entities/严格的数学推导|严格的数学推导]] `aliases: Rigorous Mathematical Derivation` - 严格的数学推导 refers to disciplined reasoning through formal mathematical steps rather than relying solely
+- [[entities/个人自由|个人自由]] - 个人自由 is described as expanding when [[concepts/个人良心|personal conscience]] replaces externally impose
+- [[entities/资本主义|资本主义]] `aliases: 资本主义制度, 资本主义社会` - 资本主义 is discussed as a social and economic system shaped by [[concepts/生产方式|生产方式]], [[concepts/劳动|劳动
+- [[entities/自由主义|自由主义]] `aliases: Liberalism` - Liberalism is presented as a political and social framework associated with expanding [[个人自由|individ
+- [[entities/看不见的手|看不见的手]] `aliases: The Invisible Hand, Invisible Hand` - The Invisible Hand is a compact concept describing decentralized coordination through individual act
+- [[entities/英伟达|英伟达]] `aliases: NVIDIA, NVIDIA Corporation` - NVIDIA, also known as 英伟达, is presented as a central organization within the artificial-intelligence
+- [[entities/股票轮动|股票轮动]] `aliases: 板块轮动` - 股票轮动 refers to the movement of capital and investor attention among different stocks or sectors. The
+- [[entities/绿电|绿电]] `aliases: 绿色电力, renewable electricity` - 绿电 refers to electricity generated from renewable or otherwise low-carbon energy sources. The source
+- [[entities/中际|中际]] - 中际 is mentioned as a stock or company that appears weaker than [[entities/中国巨石|中国巨石]] in a market co
+- [[entities/中国巨石|中国巨石]] `aliases: 中国巨石股份有限公司, China Jushi` - 中国巨石 is discussed as a publicly traded company or stock whose price continues to show strength despi
+- [[entities/赵起|赵起]] `aliases: Zhao Qi` - Zhao Qi is presented negatively as an example of attempting technical work without understanding its
+- [[entities/孙宇晨|孙宇晨]] `aliases: Sun Yuchen, 孙割` - 孙宇晨 is discussed as an example of [[concepts/机会主义者|opportunistic behavior]], strong [[concepts/营销|ma
+- [[entities/陈俊洁|陈俊洁]] - 陈俊洁 is identified in the source note as someone who may eventually become trapped while studying a p
+- [[entities/abaqus|abaqus]] `aliases: ABAQUS finite element software` - ABAQUS is a commercial engineering simulation software package used as a benchmark and as a long-ter
+- [[entities/有价值的人|有价值的人]] `aliases: Valuable people, People of value, People with meaningful value` - **Valuable People** refers to individuals whose abilities, character, or contributions make them mea
+- [[entities/反过来想|反过来想]] `aliases: Inversion, Inversion thinking` - 反过来想 is a reasoning method that examines a problem from the opposite direction. The source presents 
+- [[entities/有情有义|有情有义]] `aliases: 重情重义, 讲情义, Loyalty and affection` - 有情有义 describes a moral ideal centered on emotional loyalty, human warmth, and keeping faith with oth
+- [[entities/财不外露|财不外露]] `aliases: Financial discretion, Keeping wealth private` - Financial discretion is the norm of concealing or not publicly displaying personal wealth. In the so
+- [[entities/稳定的团队|稳定的团队]] `aliases: Stable team, Team stability` - [[entities/稳定的团队|稳定的团队]] refers to a dependable and cohesive group whose continuity is treated as a 
+- [[entities/economies-of-scale|economies-of-scale]] `aliases: Scale economies, Advantages of scale, Economies of scale` - Economies of scale are cost, distribution, information, specialization, and demand advantages that a
+- [[entities/pari-mutuel-system|pari-mutuel-system]] `aliases: Parimutuel betting system, Race-track market model` - The pari-mutuel system is a wagering market in which participants bet against one another, with payo
+- [[entities/poor-charlies-almanack|poor-charlies-almanack]] `aliases: Poor Charlie's Almanack, Poor Charlie` - *Poor Charlie's Almanack* presents the life, character, investment philosophy, and practical wisdom 
+- [[entities/jared-diamond|jared-diamond]] `aliases: Jared M. Diamond` - Jared Diamond is a prominent multidisciplinary scholar who applies evolutionary biology and other sc
+- [[entities/richard-p-feynman|richard-p-feynman]] `aliases: Richard Feynman, R. P. Feynman` - Richard P. Feynman is presented as a model of scientific reasoning, practical investigation, and cau
+- [[entities/richard-zeckhauser|richard-zeckhauser]] `aliases: Richard Zeckhauser` - Richard Zeckhauser is presented as a Harvard professor and exceptional bridge player whose decision-
+- [[entities/authority-misinfluence-tendency|authority-misinfluence-tendency]] `aliases: Authority bias, Authority mis-influence, Authority-Misinfluence Tendency` - Authority-Misinfluence Tendency is the tendency to follow leaders, experts, or other authority figur
+- [[entities/david-ricardo|david-ricardo]] `aliases: David Ricardo, Ricardo` - David Ricardo was an English economist whose principle of [[entities/comparative-advantage|comparati
+- [[entities/john-wooden|john-wooden]] `aliases: John Wooden, UCLA coach` - John Wooden was an American basketball coach who led the UCLA Bruins and is used by [[entities/charl
+- [[entities/availability-misweighing-tendency|availability-misweighing-tendency]] `aliases: Availability bias, Availability-misweighing` - **Availability-Misweighing Tendency** is the tendency to give excessive weight to information that i
+- [[entities/reason-respecting-tendency|reason-respecting-tendency]] `aliases: Reason-Respecting Tendency, Reason respecting` - Reason-Respecting Tendency is the human inclination to comply more readily when an instruction or re
+- [[entities/use-it-or-lose-it-tendency|use-it-or-lose-it-tendency]] `aliases: Use it or lose it, Skill decay` - The Use-It-or-Lose-It Tendency describes the decline of skills and knowledge when they are not regul
+- [[entities/social-proof-tendency|social-proof-tendency]] `aliases: Social proof, Monkey-see, monkey-do` - Social-Proof Tendency is the tendency to think or act as nearby people appear to think or act. [[Cha
+- [[entities/deprival-super-reaction-tendency|deprival-super-reaction-tendency]] `aliases: Deprival-Super Reaction Tendency, Deprival-super reaction, Loss aversion` - **Deprival-Super Reaction Tendency** describes unusually intense reactions to losing something alrea
+- [[entities/behavioral-economics|behavioral-economics]] `aliases: Behavioral finance, Behavioral economics` - Behavioral economics is the interdisciplinary study of how psychological tendencies, social influenc
+- [[entities/opportunity-cost|opportunity-cost]] `aliases: Alternative cost, Opportunity Cost` - Opportunity cost is the value of the best alternative forgone when a decision is made. [[Charles T. 
+- [[entities/mr-market|mr-market]] `aliases: Mr. Market analogy, Mr. Market` - Mr. Market is [[entities/benjamin-graham|Benjamin Graham’s]] personification of the stock market as 
+- [[entities/moat|moat]] `aliases: Economic moat, Competitive moat` - A moat is [[Charles T. Munger]] and [[Warren Buffett]]’s metaphor for a durable competitive advantag
+- [[entities/robert-b-cialdini|robert-b-cialdini]] `aliases: Robert Cialdini, Robert B. Cialdini` - Robert B. Cialdini is a psychologist whose research made social influence and persuasion more access
+- [[entities/university-of-chicago|university-of-chicago]] `aliases: University of Chicago, UChicago, Chicago` - The [[entities/university-of-chicago|University of Chicago]] is presented as an example of both the 
+- [[entities/henry-e-singleton|henry-e-singleton]] `aliases: Henry Singleton, H. E. Singleton` - Henry E. Singleton was the co-founder and chief executive of [[entities/teledyne|Teledyne]]. He was 
+- [[entities/john-kenneth-galbraith|john-kenneth-galbraith]] `aliases: J. K. Galbraith, J. Kenneth Galbraith` - John Kenneth Galbraith was an economist whose analysis of the [[concepts/bezzle|bezzle]] became an i
+- [[entities/richard-thaler|richard-thaler]] `aliases: Richard H. Thaler` - Richard Thaler is an economist known for challenging the assumption that human behavior is consisten
+- [[entities/teledyne|teledyne]] `aliases: Inc.` - Teledyne is presented in [[entities/poor-charlies-almanack|Poor Charlie's Almanack]] as an example o
+- [[entities/costco|costco]] `aliases: Costco Wholesale` - Costco is presented as a business whose scale, specialization, customer loyalty, and pricing practic
+- [[entities/sees-candies|sees-candies]] `aliases: See's Candy, See's Candies, Inc.` - See's Candies is presented in [[sources/poor-charlies-almanack_38aa4e|Poor Charlie's Almanack]] as a
+- [[entities/munger-tolles-&-olson|munger-tolles-&-olson]] `aliases: Munger Tolles, MTO` - Munger Tolles & Olson is a Los Angeles law firm founded in 1962 by [[entities/charles-t-munger|Charl
+- [[entities/wesco-financial|wesco-financial]] `aliases: Wesco, Wesco Financial Corporation` - Wesco Financial was a holding company chaired by [[entities/charles-t-munger|Charles T. Munger]] and
+- [[entities/harvard-law-school|harvard-law-school]] `aliases: Harvard Law, Harvard Law School` - [[Harvard Law School]] is a major institution in the biography of [[Charles T. Munger]] and in his c
+- [[entities/cicero|cicero]] `aliases: Marcus Tullius Cicero, Tullius Cicero` - Cicero, also known as Marcus Tullius Cicero, was a Roman statesman, orator, philosopher, and writer 
+- [[entities/coca-cola|coca-cola]] `aliases: Coke, Coca-Cola beverage` - Coca-Cola is used by [[entities/charles-t-munger|Charles T. Munger]] as the principal business case 
+- [[entities/benjamin-franklin|benjamin-franklin]] `aliases: Ben Franklin, Benjamin Franklin` - Benjamin Franklin is presented in [[entities/poor-charlies-almanack|Poor Charlie's Almanack]] as [[e
+- [[entities/warren-buffett|warren-buffett]] `aliases: Warren E. Buffett, Oracle of Omaha, Buffett` - Warren Buffett is an American investor, business leader, and the chairman and chief executive of [[e
+- [[entities/charles-t-munger|charles-t-munger]] `aliases: Charlie Munger, Charles T. Munger` - Charles T. Munger is the central subject, narrator, and intellectual architect of [[sources/poor-cha
+- [[entities/berkshire-hathaway|berkshire-hathaway]] `aliases: Berkshire Hathaway, Berkshire` - Berkshire Hathaway is the principal business institution through which [[entities/charles-t-munger|C
+- [[entities/grok|grok]] - Grok is an AI system identified as contributing to the preparation of [[concepts/第一次做爱性交完全指南|《第一次做爱性
+
+## Concepts
+
+- [[concepts/dopamine-d2-receptor-antagonism|dopamine-d2-receptor-antagonism]] `aliases: D2 receptor antagonism, D2 receptor blockade` - Dopamine D2 receptor antagonism is the blockade of dopamine D2 receptors by a drug. This mechanism i
+- [[concepts/serotonin-5-ht2a-receptor-affinity|serotonin-5-ht2a-receptor-affinity]] `aliases: 5-HT2A receptor affinity, Serotonin 2A receptor affinity, 5-HT2A affinity` - Serotonin 5-HT2A receptor affinity describes the degree to which a drug interacts with serotonin 5-H
+- [[concepts/movement-disorder|movement-disorder]] `aliases: Movement disorders, Motor disorder` - A movement disorder is a condition involving abnormal movement, impaired motor control, or related d
+- [[concepts/clinical-trials|clinical-trials]] `aliases: Clinical trial, Clinical study, Randomized clinical trial` - Clinical trials are structured studies that evaluate the effects, benefits, and risks of medical tre
+- [[concepts/parkinsons-disease|parkinsons-disease]] `aliases: Parkinson disease, Parkinsonian disease` - Parkinson's disease is a neurodegenerative disorder characterized principally by degeneration of dop
+- [[concepts/pyramidal-tracts|pyramidal-tracts]] `aliases: Pyramidal pathways` - **Pyramidal tracts** are neural pathways referenced as a contrast to the [[Extrapyramidal system]]. 
+- [[concepts/dopaminergic-neurotransmission|dopaminergic-neurotransmission]] `aliases: Dopamine neurotransmission, Dopamine signaling` - Dopaminergic neurotransmission is the physiological process by which dopamine is released, transmitt
+- [[concepts/dopamine-agonists|dopamine-agonists]] `aliases: Dopaminergic agonists, Dopamine receptor agonists` - Dopamine agonists are medications that increase dopaminergic signaling by activating dopamine recept
+- [[concepts/beta-blockers|beta-blockers]] `aliases: Beta-adrenergic blockers, Beta-adrenergic antagonists` - Beta blockers are a class of medications that reduce beta-adrenergic receptor activity. In the sourc
+- [[concepts/nigrostriatal-pathway|nigrostriatal-pathway]] `aliases: Nigrostriatal dopaminergic pathway, Nigrostriatal tract` - The **nigrostriatal pathway** is a dopaminergic neural pathway connecting neurons in the substantia 
+- [[concepts/rating-scales-for-extrapyramidal-symptoms|rating-scales-for-extrapyramidal-symptoms]] `aliases: EPS rating scales, Extrapyramidal symptom rating scales` - Rating scales for extrapyramidal symptoms are clinical assessment methods used to estimate the sever
+- [[concepts/vesicular-monoamine-transporter-2|vesicular-monoamine-transporter-2]] `aliases: VMAT2, Vesicular monoamine transporter type 2` - Vesicular monoamine transporter 2 is a molecular target involved in the transport of monoamine neuro
+- [[concepts/oculogyric-crisis|oculogyric-crisis]] `aliases: Oculogyric reaction, Oculogyric crisis (OGC)` - Oculogyric crisis is a specific form of acute dystonic reaction characterized by a prolonged, involu
+- [[concepts/anticholinergic-medications|anticholinergic-medications]] `aliases: Anticholinergic agents, Anticholinergic drugs` - Anticholinergic medications are a treatment class used to manage selected medication-induced [[Extra
+- [[concepts/dopamine-d-sub2sub-receptors|dopamine-d-sub2sub-receptors]] `aliases: D2 receptors, D2 dopamine receptors` - Dopamine D<sub>2</sub> receptors are dopamine-sensitive receptors whose pharmacological blockade is 
+- [[concepts/typical-antipsychotic|typical-antipsychotic]] `aliases: First-generation antipsychotic, Conventional antipsychotic, Typical neuroleptic` - A typical antipsychotic, also called a first-generation antipsychotic, is an antipsychotic medicatio
+- [[concepts/atypical-antipsychotic|atypical-antipsychotic]] `aliases: Atypical antipsychotic, Atypical antipsychotics, Second-generation antipsychotic` - An atypical antipsychotic is an antipsychotic medication generally described as producing lower rate
+- [[concepts/akathisia|akathisia]] `aliases: Motor restlessness, Drug-induced akathisia` - Akathisia is an extrapyramidal phenomenon characterized by intense internal motor restlessness. It m
+- [[concepts/parkinsonism|parkinsonism]] `aliases: Parkinsonian syndrome, Pseudoparkinsonism` - Parkinsonism is a cluster of motor features characterized primarily by rigidity, bradykinesia, and t
+- [[concepts/tardive-dyskinesia|tardive-dyskinesia]] `aliases: Tardive dyskinesia, TD` - Tardive dyskinesia is a chronic [[Extrapyramidal symptoms|extrapyramidal]] movement disorder associa
+- [[concepts/dystonia|dystonia]] `aliases: Acute dystonic reaction, Acute dystonia` - Dystonia is a movement disorder characterized by continuous spasms and involuntary muscle contractio
+- [[concepts/extrapyramidal-system|extrapyramidal-system]] `aliases: Extrapyramidal motor system, Extrapyramidal system` - The extrapyramidal system is a group of brain motor pathways and structures involved primarily in re
+- [[concepts/extrapyramidal-symptoms|extrapyramidal-symptoms]] `aliases: EPS, Extrapyramidal side effects` - Extrapyramidal symptoms are movement-related symptoms archetypically associated with the [[Extrapyra
+- [[concepts/2026-09-07|2026-09-07]] `aliases: September 7, 2026, Daily note 2026-09-07` - A multidisciplinary daily note that connects technical learning, business judgment, language, histor
+- [[concepts/全面发展|全面发展]] `aliases: All-round development, Holistic development` - 全面发展 (all-round development) is the idea that a person should cultivate capabilities across multiple
+- [[concepts/文明|文明]] `aliases: Civilization` - 文明 is a broad concept concerning the development and organization of human societies. The source ass
+- [[concepts/幸福|幸福]] - 幸福 is a personal and family-oriented value used to evaluate whether daily activity, work, and respon
+- [[concepts/化学腐蚀|化学腐蚀]] `aliases: Chemical corrosion` - Chemical etching, also known as 化学腐蚀, is a chemical process used to selectively remove material duri
+- [[concepts/语言的目的|语言的目的]] - 语言的目的 is the instrumental view that language serves to solve problems through tools. It emphasizes u
+- [[concepts/历史|历史]] `aliases: History, Historical thinking` - History is the systematic reflection on the past, its relationship to the future, and the ways in wh
+- [[concepts/团队稳定性|团队稳定性]] `aliases: Team Reliability, Organizational Stability, Supplier Team Stability` - Team stability is a practical criterion for evaluating whether an organization or supplier can relia
+- [[concepts/微积分思想|微积分思想]] `aliases: Calculus thinking` - 微积分思想 is the underlying intellectual principle behind ABAQUS requiring an intermediate position. It 
+- [[concepts/制造成本和良率|制造成本和良率]] `aliases: 制造成本与良率, 生产成本和良率` - 制造成本和良率 is the paired evaluation of the economic resources required to manufacture a product and the
+- [[concepts/人对于大方向的把握|人对于大方向的把握]] `aliases: Strategic Direction Judgment, Human Strategic Orientation` - Human grasp of broad strategic direction describes the continuing human responsibility to establish,
+- [[concepts/几何原本|几何原本]] `aliases: Euclid's Elements, Elements` - 几何原本 is a foundational geometry text presented as a model for organizing definitions, basic facts, a
+- [[concepts/稳量产|稳量产]] `aliases: 稳定量产` - 稳量产 is the method of achieving stable, repeatable mass production rather than merely completing a on
+- [[concepts/复利的力量|复利的力量]] `aliases: Compounding Effect, Power of Compound Growth` - The Power of Compounding is the principle that repeated reinvestment or accumulation can produce gro
+- [[concepts/逻辑|逻辑]] `aliases: Logic, Logical reasoning` - Logic is a foundational discipline for structuring reasoning, evaluating evidence, deriving conclusi
+- [[concepts/客户认证|客户认证]] `aliases: Customer Approval` - Customer certification is a business and production step in which a customer validates or approves a
+- [[concepts/抛物线|抛物线]] `aliases: Parabola, 抛物线曲线` - 抛物线 is a geometric curve associated with quadratic equations and their root formulas. It connects sy
+- [[concepts/复数|复数]] `aliases: complex number` - A complex number is a mathematical number consisting of a real component and an imaginary component.
+- [[concepts/顺势而为|顺势而为]] `aliases: Adapting to Conditions, Acting with the Trend` - Acting with the trend is a method of making decisions in accordance with prevailing conditions rathe
+- [[concepts/避蠢能力|避蠢能力]] `aliases: Avoiding Foolishness, Error Prevention, Downside Avoidance` - Error avoidance is the capacity to prevent common foolish mistakes before they occur. It emphasizes 
+- [[concepts/优势累积|优势累积]] `aliases: Advantage Accumulation, Cumulative Advantage, Compounding of Advantages` - Advantage accumulation is the theory that repeated investment in correct actions and durable advanta
+- [[concepts/知识联系网|知识联系网]] - 知识联系网 describes knowledge as an interconnected network of relationships rather than a flat collectio
+- [[concepts/自己做一遍才是最好的成长方式|自己做一遍才是最好的成长方式]] `aliases: Learning Through Direct Practice, Reconstructive Learning, Doing It Yourself Is the Best Way to Grow` - **Doing It Yourself Is the Best Way to Grow** is a learning method centered on independently reconst
+- [[concepts/体系化|体系化]] `aliases: 知识体系化, 系统化学习` - 体系化 is the method of organizing knowledge into a coherent, interconnected structure rather than accu
+- [[concepts/二次方程|二次方程]] `aliases: Quadratic Equation` - A quadratic equation is an algebraic equation in which the highest power of the unknown is two. Its 
+- [[concepts/利润函数|利润函数]] `aliases: Profit Function` - A profit function is a mathematical function that represents profit as total revenue minus total pro
+- [[concepts/2026-09-05|2026-09-05]] - A wide-ranging daily study note that connects regional energy infrastructure, investment principles,
+- [[concepts/强力永磁体|强力永磁体]] `aliases: High-strength permanent magnets, Powerful permanent magnets` - High-strength permanent magnets are permanent magnets engineered to retain strong magnetic propertie
+- [[concepts/共情|共情]] `aliases: Empathy` - Empathy is the capacity to recognize, understand, or share another person’s emotional experience. In
+- [[concepts/法制|法制]] `aliases: Rule of law, Legal order` - 法制 refers to governance through an established legal system and the institutional enforcement of law
+- [[concepts/稀土|稀土]] `aliases: Rare earths, Rare-earth elements` - 稀土 refers to a group of chemical elements, generally comprising the lanthanides together with scandi
+- [[concepts/资源稀缺|资源稀缺]] `aliases: Resource scarcity, Scarcity` - 资源稀缺 is the condition in which available resources are limited relative to competing uses and human 
+- [[concepts/社会形态|社会形态]] `aliases: Social formation, Social structure` - Social formation refers to the broad organization of society, including its institutions, social rel
+- [[concepts/分工|分工]] `aliases: Division of labor` - 分工 is the organization of productive activity into specialized roles performed by different people o
+- [[concepts/正义|正义]] `aliases: Justice, 公正` - Justice is a central normative concept concerning the fair organization of society and the legitimat
+- [[concepts/生产方式|生产方式]] `aliases: Mode of Production, Production Mode` - Mode of production describes the historically specific organization of production through which peop
+- [[concepts/功利主义|功利主义]] `aliases: Utilitarianism, Greatest Happiness Principle` - Utilitarianism is an ethical theory that evaluates conduct and institutions by their consequences, p
+- [[concepts/价值观|价值观]] `aliases: Values, Value system` - Values are the principles used to judge people, actions, institutions, and social arrangements. They
+- [[concepts/君子自强不息|君子自强不息]] `aliases: The exemplary person strives ceaselessly, Self-strengthening without pause` - 君子自强不息 is a classical Chinese ethical maxim expressing the ideal of continuous self-improvement, dis
+- [[concepts/2026-09-02|2026-09-02]] - An informal set of observations concerning public figures, taxation, Chinese equities, and restauran
+- [[concepts/买入机会|买入机会]] `aliases: Entry Opportunity, Buying Point` - A buying opportunity is a sufficiently reliable point at which an investor may enter a position. An 
+- [[concepts/均线拐头向上|均线拐头向上]] `aliases: 均线向上拐头, 移动平均线向上转折` - 均线拐头向上 describes a moving average changing direction toward an upward trend. The source presents thi
+- [[concepts/大跌|大跌]] `aliases: Sharp price decline` - 大跌 refers to a substantial decline in a security’s price. It may occur after an important technical 
+- [[concepts/破线|破线]] - 破线 describes the loss or downward breach of a significant price or chart level. In the source, it is
+- [[concepts/耐心|耐心]] `aliases: Patience, Waiting discipline` - 耐心 is the capacity to delay action until conditions become more favorable or sufficiently confirmed.
+- [[concepts/超额利润|超额利润]] `aliases: 超额回报, Excess profit` - 超额利润 denotes profits above ordinary or competitive returns. In the source’s discussion of [[餐饮市场]], 
+- [[concepts/餐饮市场|餐饮市场]] `aliases: 餐饮业市场, Food and Beverage Market` - [[餐饮市场]] is a large commercial market characterized by substantial demand and available business opp
+- [[concepts/长期均线|长期均线]] `aliases: Long-term moving average, Long-term MA` - Long-term moving average refers to a moving-average indicator used as a long-term technical referenc
+- [[concepts/保护费|保护费]] `aliases: protection money` - **保护费** is a figurative term for money that economic participants are portrayed as being compelled t
+- [[concepts/尾盘买入|尾盘买入]] - 尾盘买入 is a trading method that involves purchasing a stock near the end of the trading session. It em
+- [[concepts/2026-08-28|2026-08-28]] - A daily synthesis framework connecting technical learning, investment judgment, personal development
+- [[concepts/四看|四看]] `aliases: Four evaluation criteria, Four-part relationship assessment` - 四看 is a compact framework for evaluating a romantic or cohabiting relationship. It assesses compatib
+- [[concepts/性格稳住|性格稳住]] `aliases: Emotional steadiness, Maintaining composure, Character stability` - Character stability refers to maintaining a controlled, consistent character under pressure, temptat
+- [[concepts/保守|保守]] `aliases: 谨慎决策, Conservatism, Cautious decision-making` - 保守 is a disciplined stance of caution in personal decisions, financial activity, and information pro
+- [[concepts/三好一凑合|三好一凑合]] `aliases: Three good qualities and one compromise, Three strengths, one acceptable weakness` - 三好一凑合 is a relationship-evaluation shorthand used by the source. It describes a partner whose emotio
+- [[concepts/投资理财能力|投资理财能力]] `aliases: Investment and Financial Management Ability, Financial Literacy` - Investment and financial management ability is the capacity to make sound decisions about investing,
+- [[concepts/机会主义者|机会主义者]] `aliases: Opportunistic actor, Opportunity-seeker` - An opportunist is a person characterized by excessive reliance on tactical cleverness and the pursui
+- [[concepts/商软|商软]] `aliases: Commercial software, Commercial engineering software` - 商软 refers to commercial software in the source’s engineering context. The term is specifically assoc
+- [[concepts/先把一个东西完全做通|先把一个东西完全做通]] `aliases: Deep Mastery Before Expansion, Complete One Thing Before Starting Another, Focused Sequencing` - A sequencing method that prioritizes fully understanding, completing, and operationalizing one subje
+- [[concepts/做自己喜欢和擅长的事情|做自己喜欢和擅长的事情]] `aliases: Doing What You Like and Are Good At, Interest-and-Strength Alignment` - A principle of choosing work that combines personal interest with demonstrated ability. It is presen
+- [[concepts/向厉害的人示弱|向厉害的人示弱]] `aliases: Show humility toward capable people, Strategic humility` - 向厉害的人示弱 is an interpersonal strategy of responding to more capable or accomplished people with humil
+- [[concepts/底层思维|底层思维]] `aliases: Fundamental thinking, First-principles thinking, 懂原理` - Fundamental thinking is an approach that focuses on underlying structures, mechanisms, and principle
+- [[concepts/糖成瘾性|糖成瘾性]] `aliases: Sugar addiction, Addictive properties of sugar` - Sugar addiction refers to the perceived property of sugar to produce repeated desire or dependence. 
+- [[concepts/个人知识体系|个人知识体系]] `aliases: Individual knowledge framework, Personal knowledge system` - A personal knowledge system is an internally organized body of understanding developed through thoro
+- [[concepts/独立思考|独立思考]] `aliases: Independent judgment, Critical independence` - Independent thinking is the ability to form judgments through personal analysis, reliable principles
+- [[concepts/人性的诱惑|人性的诱惑]] `aliases: Human temptation, Human vulnerabilities` - Human temptation describes the recurring pressures and attractions that make sustained study, discip
+- [[concepts/正确的价值观|正确的价值观]] `aliases: Sound Values, Proper Values` - Sound Values is a guiding framework for selecting meaningful work and organizing long-term personal 
+- [[concepts/结果为导向|结果为导向]] `aliases: Results-oriented approach, Outcome orientation, Results orientation` - The Results-Oriented Approach is the principle that models and methods should be judged by whether t
+- [[concepts/2026-08-26|2026-08-26]] - A personal philosophy that integrates ethical character, financial discretion, stable teamwork, long
+- [[concepts/理解力|理解力]] `aliases: Comprehension, Understanding ability` - Comprehension is the ability to understand, internalize, and appropriately apply an idea or explanat
+- [[concepts/自私|自私]] `aliases: Selfishness, Egoism` - Selfishness is the tendency to place one’s own interests ahead of obligations to other people or to 
+- [[concepts/赚钱|赚钱]] `aliases: Making money, Earning money` - 赚钱 refers to earning money or pursuing financial gain. The concept treats financial success as impor
+- [[concepts/睡眠障碍|睡眠障碍]] `aliases: Sleep disturbance, Insomnia-related symptoms` - Sleep disorder refers to clinically meaningful problems involving sleep duration, timing, continuity
+- [[concepts/2026-08-24|2026-08-24]] - **2026-08-24** is a daily-note framework connecting personal conduct, investing, artificial intellig
+- [[concepts/回传|回传]] `aliases: backpropagation, backward propagation` - 回传 is a learning procedure in which the discrepancy between a model’s output and its target is propa
+- [[concepts/控制工程|控制工程]] `aliases: control engineering, control systems engineering` - Control engineering is the engineering discipline concerned with regulating dynamic systems toward d
+- [[concepts/行业的上游中游下游|行业的上游中游下游]] `aliases: Industry Value Chain, Upstream, Midstream, and Downstream, 产业链` - Industry upstream, midstream, and downstream is a value-chain framework for locating activities and 
+- [[concepts/股票|股票]] `aliases: stock, share` - 股票 denotes an equity security representing an ownership interest in a company. In the source, it is 
+- [[concepts/a股|a股]] `aliases: A-share market, Chinese A-shares, A股市场` - [[A股]] refers to the mainland Chinese stock market, particularly as an investment environment charac
+- [[concepts/神经元|神经元]] `aliases: neuron, nerve cell` - A neuron is a functional or logical unit within a network that processes and transmits signals. In t
+- [[concepts/稳态|稳态]] `aliases: homeostasis, steady state` - Steady state is the maintenance of a relatively stable condition through ongoing regulation. In the 
+- [[concepts/反馈学习|反馈学习]] `aliases: Feedback Learning, Error-Guided Learning` - Feedback learning is a method in which a system compares its output with a desired or observed value
+- [[concepts/负反馈|负反馈]] `aliases: Negative feedback` - Negative feedback is a mechanism through which a system detects deviation from a desired state and a
+- [[concepts/数值分析|数值分析]] `aliases: numerical analysis` - 数值分析 is a method for understanding fear and uncertainty through quantitative values, explicit measur
+- [[concepts/控制论|控制论]] `aliases: Cybernetics, 动物与机器中的控制与通信` - Cybernetics is an interdisciplinary theory of control, communication, feedback, and self-regulation 
+- [[concepts/损失函数|损失函数]] `aliases: loss function, cost function` - 损失函数 is a mathematical function that measures the gap between a model’s output and a target or real 
+- [[concepts/定价权|定价权]] `aliases: Pricing Power` - Pricing power is the ability of a business to influence or determine the prices of its products or s
+- [[concepts/散户思维|散户思维]] `aliases: Retail Investor Mindset, Individual Investor Mindset` - Retail Investor Mindset denotes the perspective and behavioral tendencies commonly associated with i
+- [[concepts/投资家思维|投资家思维]] `aliases: Investor Mindset, Investment Thinking` - Investor Thinking is the source’s proposed alternative to retail-investor thinking. It focuses on id
+- [[concepts/核心竞争力|核心竞争力]] `aliases: Core Competence, Core Competitiveness` - 核心竞争力 is a distinctive and durable capability that enables an individual, company, or industry parti
+- [[concepts/人工智能|人工智能]] `aliases: AI, Artificial intelligence, ai` - Artificial intelligence is a broad technological and intellectual field concerned with systems that 
+- [[concepts/科学研究|科学研究]] `aliases: Scientific Research, Scientific Inquiry` - Scientific research is a systematic activity for investigating meaningful questions, interpreting ev
+- [[concepts/checklist|checklist]] `aliases: Decision checklist, Checklist methodology` - The Checklist is [[Charles T. Munger]]’s practical procedure for reducing errors, omissions, overcon
+- [[concepts/compound-interest|compound-interest]] `aliases: Compounding, Compound growth` - Compound interest is the process by which accumulated returns generate additional returns over time.
+- [[concepts/incentive-caused-bias|incentive-caused-bias]] `aliases: Incentive-Caused Bias, Incentive-caused misjudgment, Incentive superpower` - Incentive-Caused Bias is the tendency for rewards, punishments, and compensation structures to alter
+- [[concepts/psychology-of-human-misjudgment|psychology-of-human-misjudgment]] `aliases: Psychology of misjudgment, Munger's psychology checklist` - The Psychology of Human Misjudgment is [[Charles T. Munger]]’s synthesis of recurring psychological 
+- [[concepts/worldly-wisdom|worldly-wisdom]] `aliases: Elementary worldly wisdom, Practical wisdom` - Worldly Wisdom is Charles T. Munger’s practical ideal of understanding reality through an interconne
+- [[concepts/inversion|inversion]] `aliases: Invert, always invert, Reverse thinking` - Inversion is a problem-solving method that examines a situation backward: instead of asking only how
+- [[concepts/focus-investing|focus-investing]] `aliases: Concentrated investing, Sit-on-your-ass investing, Focus investing` - Focus Investing is [[Charles T. Munger]]’s method of holding a small number of exceptional investmen
+- [[concepts/margin-of-safety|margin-of-safety]] `aliases: Safety margin, Margin-of-safety principle` - **Margin of Safety** is the investment discipline of purchasing an asset only when its intrinsic val
+- [[concepts/multiple-mental-models|multiple-mental-models]] `aliases: Multidisciplinary Mental Models, Latticework of Mental Models` - Multiple Mental Models is [[entities/charles-t-munger|Charles T. Munger]]’s method of analyzing busi
+- [[concepts/lollapalooza-effect|lollapalooza-effect]] `aliases: Lollapalooza Effect, Lollapalooza tendency, Lollapalooza-level results` - The **Lollapalooza Effect** is an extreme outcome produced when multiple psychological, economic, so
+- [[concepts/circle-of-competence|circle-of-competence]] `aliases: Competence circle, Circle of Competence` - The Circle of Competence is the boundary around subjects an investor understands well enough to eval
+- [[concepts/阴道前壁|阴道前壁]] `aliases: Anterior vaginal wall, Anterior wall of the vagina` - The anterior vaginal wall is the vaginal wall oriented toward the lower abdomen. Some people may exp
+- [[concepts/性兴奋|性兴奋]] `aliases: 性唤起, sexual arousal` - 性兴奋 is a bodily and emotional state of sexual arousal involving increased desire, genital lubricatio
+- [[concepts/射精控制|射精控制]] `aliases: 控制射精, ejaculation control` - 射精控制 is a practical method for managing arousal and delaying ejaculation during sexual activity. It 
+- [[concepts/手指进入|手指进入]] `aliases: Manual penetration, Finger insertion` - Manual finger penetration is a method for gradually introducing internal stimulation. It emphasizes 
+- [[concepts/肛门|肛门]] `aliases: 肛门区域, anus` - The anus is the terminal opening of the digestive tract, located below the perineum. In the source, 
+- [[concepts/油性润滑|油性润滑]] `aliases: Oil-Based Lubricant, Oil-Based Lube` - Oil-based lubrication is a lubricant category that is incompatible with latex condoms. Using it with
+- [[concepts/阴道|阴道]] `aliases: Vagina, Vaginal canal` - The vagina is an internal, expandable muscular and mucosal canal that differs from the externally vi
+- [[concepts/尿道口|尿道口]] `aliases: Urethral opening, Urethral meatus, Urinary opening` - The urethral opening is the external opening through which urine exits the body. In vulvar anatomy, 
+- [[concepts/会阴|会阴]] `aliases: 会阴部, perineum` - 会阴, or perineum, is the region between the vaginal entrance and the anus. In the source, it is descr
+- [[concepts/小阴唇|小阴唇]] `aliases: labia minora, inner labia` - The labia minora are the thinner inner pair of skin folds located inside the [[大阴唇|labia majora]] an
+- [[concepts/阴蒂包皮|阴蒂包皮]] `aliases: 阴蒂帽, clitoral hood` - 阴蒂包皮 is a fold of tissue that may partially cover the visible glans of the [[concepts/阴蒂|阴蒂]]. Its e
+- [[concepts/大阴唇|大阴唇]] `aliases: 外侧阴唇, labia majora` - 大阴唇（labia majora）是外阴外侧的一对唇状皮肤褶皱，通常对应于具有毛发的外部区域。它既是重要的外部解剖标志，也是对触碰较为敏感的区域。性唤起时，大阴唇可能出现一定程度的肿胀。
+- [[concepts/排卵状态|排卵状态]] `aliases: 排卵期, ovulation status` - Ovulation status refers to a woman’s reproductive timing in relation to ovulation. It is a factor th
+- [[concepts/海绵体充血|海绵体充血]] `aliases: 阴茎充血, 勃起充血` - 海绵体充血 is the physiological process in which blood fills the erectile tissue of the penis, while veno
+- [[concepts/阴阜|阴阜]] `aliases: 耻丘, mons pubis` - 阴阜 is the soft, raised area located in front of the pubic bone. It is commonly covered with pubic ha
+- [[concepts/口交|口交]] `aliases: Oral sex, Cunnilingus` - 口交 is a form of sexual stimulation involving the mouth, lips, or tongue. It is presented as an optio
+- [[concepts/阴道口|阴道口]] `aliases: 阴道入口, vaginal opening` - The vaginal opening is the entrance to the vaginal canal. It is located below the urethral opening a
+- [[concepts/第一次表现差|第一次表现差]] `aliases: 初次性经历表现不佳, 第一次性表现不佳` - **第一次表现差** describes awkward, disappointing, or disrupted sexual performance during an initial partn
+- [[concepts/高潮喷水g点|高潮喷水g点]] `aliases: Orgasm, ejaculation, and G-spot, Sexual-performance targets` - 高潮、喷水、G点 refers to a cluster of culturally prominent but potentially misleading sexual-performance t
+- [[concepts/语言确认|语言确认]] `aliases: Language Confirmation, Verbal Consent Confirmation` - Language confirmation is the practice of using direct, caring speech to establish comfort, willingne
+- [[concepts/怀孕或传染|怀孕或传染]] `aliases: Pregnancy or STI Transmission, Pregnancy or Infection Risk` - **Pregnancy or Infection** represents the paired risk of pregnancy and sexually transmitted infectio
+- [[concepts/外阴-≠-阴道|外阴-≠-阴道]] `aliases: Vulva–vagina distinction, External versus internal genital anatomy` - **Vulva ≠ Vagina** describes the anatomical distinction between the visible external genital structu
+- [[concepts/副交感|副交感]] `aliases: Parasympathetic, Parasympathetic activity, Rest-and-digest state` - The parasympathetic state is a physiological condition associated with rest, relaxation, genital blo
+- [[concepts/第一次做爱性交完全指南|第一次做爱性交完全指南]] `aliases: 《第一次做爱性交完全指南》, First-Time Consensual Sex Guide` - 《第一次做爱性交完全指南》 is a direct, experience-oriented guide to preparing for first-time consensual sex. It 
+- [[concepts/高潮|高潮]] `aliases: Orgasm` - 高潮 is the peak of sexual pleasure and physiological arousal. It is a possible, but not mandatory, ou
+- [[concepts/处女膜|处女膜]] `aliases: Hymen, Hymenal tissue` - 处女膜 is anatomically variable tissue around the vaginal opening. Its appearance, presence, absence, o
+- [[concepts/安全套|安全套]] `aliases: Condom, Barrier protection` - Condom is a barrier-protection method used during sexual intercourse to reduce the risk of pregnancy
+- [[concepts/外阴|外阴]] `aliases: Vulva, External genitalia` - The vulva is the visible external genital region, distinguished from the internal vagina. It include
+- [[concepts/同意|同意]] `aliases: Sexual consent, Consent` - Consent is the voluntary, informed, and ongoing agreement of all participants to engage in a specifi
+- [[concepts/阴蒂|阴蒂]] `aliases: Clitoral glans, Clitoral organ` - The clitoris is a highly nerve-dense sexual organ that plays a central role in pleasure and orgasm f
+- [[concepts/润滑|润滑]] `aliases: Lubrication, Lubricant, Personal lubricant` - Lubrication refers both to moisture naturally produced during sexual arousal and to additional lubri
+- [[concepts/前戏|前戏]] `aliases: Foreplay` - Foreplay is the stimulation before and during penetration that helps partners become aroused, relaxe
+- [[concepts/交感神经|交感神经]] `aliases: Sympathetic nervous system, SNS` - The sympathetic nervous system is the part of the autonomic nervous system associated with tension, 
+- [[concepts/睡眠和放松|睡眠和放松]] `aliases: Sleep and Relaxation, Rest and Relaxation` - Sleep and relaxation are practical prerequisites for sexual functioning and emotional regulation. Ad
+- [[concepts/场景性勃起困难|场景性勃起困难]] `aliases: Situational erectile difficulty, Context-dependent erectile difficulty, Situational erection loss` - Situational erectile difficulty is the loss or instability of an erection in a particular sexual sit
+- [[concepts/表现焦虑|表现焦虑]] `aliases: Performance anxiety` - Performance anxiety is the fear of failing to meet imagined sexual standards, such as maintaining an
+- [[concepts/第一次上床|第一次上床]] `aliases: 首次性行为, First sexual experience` - 第一次上床 refers to a person’s first sexual encounter. It is understood as a situation in which uncertai
+
+## Sources
+
+- [[sources/extrapyramidal-symptoms_95df6d|extrapyramidal-symptoms_95df6d]] `aliases: Extrapyramidal side effects, EPS`
+- [[sources/2026-09-07_931e86|2026-09-07_931e86]] `aliases: Daily Technical and Personal Reflection`
+- [[sources/2026-09-06_9320ad|2026-09-06_9320ad]] `aliases: September 6 Daily Notes, 2026-09-06 Notes`
+- [[sources/2026-09-05_5d67d8|2026-09-05_5d67d8]] `aliases: September 5, 2026 Daily Notes, 2026-09-05 Daily Note`
+- [[sources/2026-09-02_2cc714|2026-09-02_2cc714]] `aliases: September 2, 2026 Notes`
+- [[sources/2026-08-28_c1f237|2026-08-28_c1f237]] `aliases: Daily Note 2026-08-28, August 28, 2026 Daily Note`
+- [[sources/2026-08-26_537fe8|2026-08-26_537fe8]] `aliases: Daily Note on Character, Teams, and Inversion, Character, Teams, and Inversion`
+- [[sources/2026-08-24_ea6ff9|2026-08-24_ea6ff9]] `aliases: 2026-08-24 Daily Reflection, Daily Note 2026-08-24`
+- [[sources/poor-charlies-almanack_38aa4e|poor-charlies-almanack_38aa4e]] `aliases: Charlie Munger's Almanack, The Essential Wit and Wisdom of Charles T. Munger`
+- [[sources/第一次做爱性交完全指南_f791ca|第一次做爱性交完全指南_f791ca]] `aliases: First-Time Sex Guide, Complete Guide to First-Time Sex`
