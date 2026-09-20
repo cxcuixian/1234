@@ -1,0 +1,201 @@
+{
+  "provider": "openai-codex",
+  "apiKey": "",
+  "openAICodexSecretId": "karpathywiki-openai-codex",
+  "providerApiKeySecretId": "karpathywiki-provider-api-key",
+  "openAICodexModels": [
+    {
+      "slug": "gpt-6-astra",
+      "displayName": "GPT-6-Astra",
+      "supportedReasoningLevels": [
+        "low",
+        "medium",
+        "high",
+        "xhigh",
+        "max",
+        "ultra"
+      ],
+      "additionalSpeedTiers": [
+        "fast"
+      ],
+      "serviceTiers": [
+        {
+          "id": "priority",
+          "name": "Fast",
+          "description": "2x speed, increased usage"
+        }
+      ]
+    },
+    {
+      "slug": "gpt-5.6-sol",
+      "displayName": "GPT-5.6-Sol",
+      "supportedReasoningLevels": [
+        "low",
+        "medium",
+        "high",
+        "xhigh",
+        "max",
+        "ultra"
+      ],
+      "additionalSpeedTiers": [
+        "fast"
+      ],
+      "serviceTiers": [
+        {
+          "id": "priority",
+          "name": "Fast",
+          "description": "1.5x speed, increased usage"
+        }
+      ]
+    },
+    {
+      "slug": "gpt-5.6-terra",
+      "displayName": "GPT-5.6-Terra",
+      "supportedReasoningLevels": [
+        "low",
+        "medium",
+        "high",
+        "xhigh",
+        "max",
+        "ultra"
+      ],
+      "additionalSpeedTiers": [
+        "fast"
+      ],
+      "serviceTiers": [
+        {
+          "id": "priority",
+          "name": "Fast",
+          "description": "1.5x speed, increased usage"
+        }
+      ]
+    },
+    {
+      "slug": "gpt-5.6-luna",
+      "displayName": "GPT-5.6-Luna",
+      "supportedReasoningLevels": [
+        "low",
+        "medium",
+        "high",
+        "xhigh",
+        "max"
+      ],
+      "additionalSpeedTiers": [
+        "fast"
+      ],
+      "serviceTiers": [
+        {
+          "id": "priority",
+          "name": "Fast",
+          "description": "1.5x speed, increased usage"
+        }
+      ]
+    },
+    {
+      "slug": "gpt-5.5",
+      "displayName": "GPT-5.5",
+      "supportedReasoningLevels": [
+        "low",
+        "medium",
+        "high",
+        "xhigh"
+      ],
+      "additionalSpeedTiers": [
+        "fast"
+      ],
+      "serviceTiers": [
+        {
+          "id": "priority",
+          "name": "Fast",
+          "description": "1.5x speed, increased usage"
+        }
+      ]
+    }
+  ],
+  "openAICodexModelsFetchedAt": 1789885755130,
+  "baseUrl": "",
+  "model": "gpt-5.6-luna",
+  "markdownConversionBackend": "native",
+  "wikiFolder": "wiki",
+  "language": "en",
+  "wikiLanguage": "en",
+  "useCustomWikiLanguage": false,
+  "availableModels": [
+    "gpt-6-astra",
+    "gpt-5.6-sol",
+    "gpt-5.6-terra",
+    "gpt-5.6-luna",
+    "gpt-5.5"
+  ],
+  "useCustomModel": false,
+  "maxConversationHistory": 30,
+  "queryHistory": [
+    {
+      "role": "user",
+      "content": "Poor Charlie's Almanack的主要思想",
+      "timestamp": 1789885937351
+    },
+    {
+      "role": "assistant",
+      "content": "## Main Ideas of *Poor Charlie’s Almanack*\n\n[[__WIKI_FOLDER__/entities/poor-charlies-almanack|Poor Charlie’s Almanack]] presents Charles T. Munger’s philosophy of investing, learning, decision-making, and personal conduct. Its main ideas include:\n\n1. **Use multiple mental models**  \n   Good judgment requires combining ideas from mathematics, science, economics, history, psychology, and other disciplines rather than relying on a single specialized framework. This interdisciplinary approach is called a latticework of [[__WIKI_FOLDER__/concepts/multiple-mental-models|Multiple Mental Models]].\n\n2. **Know the limits of your knowledge**  \n   Investors should remain within their [[__WIKI_FOLDER__/concepts/circle-of-competence|Circle of Competence]] and avoid pretending to understand businesses or situations they cannot evaluate reliably.\n\n3. **Invest in outstanding businesses**  \n   Durable competitive advantages, strong brands, pricing power, trustworthy managers, and disciplined capital allocation are more important than simply buying something that appears statistically cheap. [[__WIKI_FOLDER__/entities/sees-candies|See’s Candies]] is used as an important example of why an excellent business may justify a higher purchase price.\n\n4. **Think long term and benefit from compounding**  \n   [[__WIKI_FOLDER__/concepts/compound-interest|Compound Interest]] rewards patience, persistence, and avoiding interruptions. A small number of excellent decisions, sustained over long periods, can dominate investment results, as illustrated by [[__WIKI_FOLDER__/entities/teledyne|Teledyne]] and Berkshire Hathaway.\n\n5. **Use inversion**  \n   Instead of asking only how to succeed, ask what would guarantee failure and then avoid those conditions. This method, known as [[__WIKI_FOLDER__/concepts/inversion|Inversion]], helps identify destructive incentives, assumptions, and behaviors.\n\n6. **Understand psychological biases**  \n   Human judgment is often distorted by incentives, social pressure, authority, overconfidence, conformity, and emotional reactions to gains and losses. Munger emphasizes [[__WIKI_FOLDER__/concepts/psychology-of-human-misjudgment|Psychology of Human Misjudgment]] and especially [[__WIKI_FOLDER__/concepts/incentive-caused-bias|Incentive-Caused Bias]].\n\n7. **Look for reinforcing forces**  \n   Exceptional results can arise when several favorable forces interact. The [[__WIKI_FOLDER__/concepts/lollapalooza-effect|Lollapalooza Effect]] explains how mutually reinforcing factors can produce extraordinary outcomes, as illustrated by [[__WIKI_FOLDER__/entities/coca-cola|Coca-Cola]].\n\n8. **Be patient, selective, and decisive**  \n   Munger advocates preparation and waiting for favorable opportunities, followed by concentrated action when the odds are attractive. This is related to [[__WIKI_FOLDER__/concepts/focus-investing|Focus Investing]] and maintaining a [[__WIKI_FOLDER__/concepts/margin-of-safety|Margin of Safety]].\n\n9. **Cultivate character and lifelong learning**  \n   Intellectual humility, honesty, reliability, curiosity, and continuous self-education are presented as both ethical virtues and practical advantages. [[__WIKI_FOLDER__/entities/benjamin-franklin|Benjamin Franklin]] serves as Munger’s major historical model for these qualities.\n\nIn short, the book’s central message is: **learn broadly, think independently, understand your limits, avoid predictable mistakes, choose quality, wait patiently, and act decisively when the opportunity is truly favorable.**\n\n## References\n\n1. [[__WIKI_FOLDER__/entities/poor-charlies-almanack|Poor Charlie’s Almanack]] — Overall framework, investment philosophy, and practical wisdom  \n2. [[__WIKI_FOLDER__/entities/charles-t-munger|Charles T. Munger]] — Munger’s life, character, and intellectual framework  \n3. [[__WIKI_FOLDER__/concepts/multiple-mental-models|Multiple Mental Models]] — Interdisciplinary reasoning framework  \n4. [[__WIKI_FOLDER__/concepts/circle-of-competence|Circle of Competence]] — Recognizing the boundaries of one’s knowledge  \n5. [[__WIKI_FOLDER__/concepts/inversion|Inversion]] — Reasoning backward from failure  \n6. [[__WIKI_FOLDER__/concepts/psychology-of-human-misjudgment|Psychology of Human Misjudgment]] — Recurring cognitive and social errors  \n7. [[__WIKI_FOLDER__/concepts/lollapalooza-effect|Lollapalooza Effect]] — Reinforcing forces producing extreme outcomes  \n8. [[__WIKI_FOLDER__/entities/sees-candies|See’s Candies]] — Pricing power and business quality  \n9. [[__WIKI_FOLDER__/entities/teledyne|Teledyne]] — Capital allocation and long-term compounding  \n10. [[__WIKI_FOLDER__/entities/benjamin-franklin|Benjamin Franklin]] — Lifelong learning and practical wisdom",
+      "timestamp": 1789885961709,
+      "retrieval": {
+        "arm": "Lex+PPR",
+        "count": 10,
+        "topPaths": [
+          "entities/poor-charlies-almanack",
+          "sources/poor-charlies-almanack_38aa4e",
+          "entities/charles-t-munger",
+          "entities/teledyne",
+          "entities/sees-candies",
+          "entities/benjamin-franklin",
+          "concepts/circle-of-competence",
+          "concepts/inversion",
+          "concepts/lollapalooza-effect",
+          "entities/coca-cola"
+        ]
+      }
+    }
+  ],
+  "enableSchema": true,
+  "tagVocabularyMode": "default",
+  "customEntityTags": "",
+  "customConceptTags": "",
+  "extractionGranularity": "standard",
+  "autoWatchSources": false,
+  "autoWatchMode": "notify",
+  "autoWatchDebounceMs": 5000,
+  "watchedFolders": [],
+  "periodicLint": "off",
+  "startupCheck": true,
+  "startupCheckNoticeLevel": "visible",
+  "autoSmartFix": true,
+  "autoIngestNotificationLevel": "notice",
+  "showAdvancedSettings": true,
+  "createWelcomeNote": true,
+  "pageGenerationConcurrency": 3,
+  "batchDelayMs": 500,
+  "lastOfferedQueryHash": "",
+  "llmReady": true,
+  "maxTokensPerCall": 0,
+  "disableThinking": false,
+  "advancedSettingsMode": "default",
+  "forcePdfSupport": false,
+  "writePdfMarkdownToVault": false,
+  "skipMentionOnlyCandidates": false,
+  "gateDissentStubs": false,
+  "createStubsForUnresolvableLinks": true,
+  "slugCase": "lower",
+  "customQueryInstructions": "",
+  "bedrockRegion": "us-east-1",
+  "bedrockAuthMethod": "api-key",
+  "bedrockSsoStartUrl": "",
+  "ingestModelUseCustom": false,
+  "lintModelUseCustom": false,
+  "queryModelUseCustom": false,
+  "openAICodexUnavailableModels": [],
+  "ingestModel": "",
+  "lintModel": "",
+  "queryModel": "",
+  "usePerTaskModels": false
+}
