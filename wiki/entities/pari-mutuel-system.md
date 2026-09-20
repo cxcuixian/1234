@@ -79,6 +79,6 @@ The pari-mutuel system is a wagering market in which participants bet against on
 
 ## Mentions in Source
 
-- "The model I like-to sort of simplify the notion of what goes on in a market for common stocks-is the pari-mutuel system at the race track." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "If you stop to think about it, a pari-mutuel system is a market." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "Everybody goes there and bets, and the odds change based on what's bet." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "The model I like-to sort of simplify the notion of what goes on in a market for common stocks-is the pari-mutuel system at the race track." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "If you stop to think about it, a pari-mutuel system is a market." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Everybody goes there and bets, and the odds change based on what's bet." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

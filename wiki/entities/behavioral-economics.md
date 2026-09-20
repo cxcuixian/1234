@@ -79,5 +79,5 @@ Behavioral economics is the interdisciplinary study of how psychological tendenc
 
 ## Mentions in Source
 
-- "Charlie also addresses the importance of recognizing patterns to determine how humans behave, both rationally and irrationally." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "Thaler believes, with me, that people are often massively irrational in ways predicted by psychology that must be taken into account in microeconomics." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Charlie also addresses the importance of recognizing patterns to determine how humans behave, both rationally and irrationally." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Thaler believes, with me, that people are often massively irrational in ways predicted by psychology that must be taken into account in microeconomics." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

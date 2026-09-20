@@ -80,5 +80,5 @@ John Kenneth Galbraith was an economist whose analysis of the [[concepts/bezzle|
 
 ## Mentions in Source
 
-- "The word "bezzle" is a contraction of the word "embezzle," and it was coined by Harvard Economics Professor John Kenneth Galbraith to stand for the increase in any period of undisclosed embezzlement." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "Galbraith coined the "bezzle" word because he saw that undisclosed embezzlement, per dollar, has a very powerful stimulating effect on spending." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "The word "bezzle" is a contraction of the word "embezzle," and it was coined by Harvard Economics Professor John Kenneth Galbraith to stand for the increase in any period of undisclosed embezzlement." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Galbraith coined the "bezzle" word because he saw that undisclosed embezzlement, per dollar, has a very powerful stimulating effect on spending." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

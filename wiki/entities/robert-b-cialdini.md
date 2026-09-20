@@ -82,5 +82,5 @@ Robert B. Cialdini is a psychologist whose research made social influence and pe
 
 ## Mentions in Source
 
-- "Cialdini had made himself into a super-tenured "Regents Professor" at very young age by devising, describing, and explaining a vast group of clever experiments in which man manipulated man to his detriment, with all of this made possible by man's intrinsic thinking flaws." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "I immediately sent copies of Cialdini's book to all my children." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Cialdini had made himself into a super-tenured "Regents Professor" at very young age by devising, describing, and explaining a vast group of clever experiments in which man manipulated man to his detriment, with all of this made possible by man's intrinsic thinking flaws." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "I immediately sent copies of Cialdini's book to all my children." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

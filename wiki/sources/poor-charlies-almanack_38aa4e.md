@@ -2,9 +2,12 @@
 type: source
 created: 2026-09-13
 updated: 2026-09-13
-source_file: "[[2/Poor Charlie's Almanack.md]]"
-tags: [other]
-aliases: ["Charlie Munger's Almanack", "The Essential Wit and Wisdom of Charles T. Munger"]
+source_file: "[[Poor Charlie's Almanack]]"
+tags:
+  - other
+aliases:
+  - Charlie Munger's Almanack
+  - The Essential Wit and Wisdom of Charles T. Munger
 contentHash: d3ebe-01d00ab2
 generation_complete: true
 ---
@@ -13,7 +16,7 @@ generation_complete: true
 
 ## Source
 
-- Original file: [[2/Poor Charlie's Almanack.md]]
+- Original file: [[Poor Charlie's Almanack]]
 - Ingested: 2026-09-13
 
 ## Core Content
@@ -56,12 +59,12 @@ generation_complete: true
 
 ## Mentions in Source
 
-- "Charles Thomas Munger was born on January 1, 1924, in America's heartland, Omaha, Nebraska." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "Charlie is Warren's friend, lawyer, adviser, devil's advocate (Warren once called him the "abominable no-man"), and one of the largest stockholders in one of the most successful publicly traded companies in American business history." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "To Charlie, successful investing is simply a byproduct of his carefully organized and focused approach to life." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "Well, I first met Charlie in 1959 when the Davis family got me together with him." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "We've been associated for forty years, and he's never second-guessed anything I've done." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "Warren Buffett once said, "Charlie can analyze and evaluate any kind of deal faster and more accurately than any man alive. He sees any valid weakness in sixty seconds. He is a perfect partner."" — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "Since 1964, when Warren, and some years later, Charlie, assumed management of Berkshire, its market value has increased an astonishing 13,500 times, from $10 million to roughly$ 135 billion, without much of an increase in outstanding shares." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "The story of Berkshire Hathaway's extraordinary success under Warren and Charlie's leadership has been told many times elsewhere, so the details won't be repeated here." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "Berkshire Hathaway's value will be higher in twenty years, but it is certain that the annual rate of percentage growth will be much lower." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Charles Thomas Munger was born on January 1, 1924, in America's heartland, Omaha, Nebraska." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Charlie is Warren's friend, lawyer, adviser, devil's advocate (Warren once called him the "abominable no-man"), and one of the largest stockholders in one of the most successful publicly traded companies in American business history." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "To Charlie, successful investing is simply a byproduct of his carefully organized and focused approach to life." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Well, I first met Charlie in 1959 when the Davis family got me together with him." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "We've been associated for forty years, and he's never second-guessed anything I've done." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Warren Buffett once said, "Charlie can analyze and evaluate any kind of deal faster and more accurately than any man alive. He sees any valid weakness in sixty seconds. He is a perfect partner."" — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Since 1964, when Warren, and some years later, Charlie, assumed management of Berkshire, its market value has increased an astonishing 13,500 times, from $10 million to roughly$ 135 billion, without much of an increase in outstanding shares." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "The story of Berkshire Hathaway's extraordinary success under Warren and Charlie's leadership has been told many times elsewhere, so the details won't be repeated here." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Berkshire Hathaway's value will be higher in twenty years, but it is certain that the annual rate of percentage growth will be much lower." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

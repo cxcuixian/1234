@@ -80,5 +80,5 @@ See's Candies is presented in [[sources/poor-charlies-almanack_38aa4e|Poor Charl
 
 ## Mentions in Source
 
-- "If See's Candy, when we were buying it had asked for hundred thousand dollars more Buffett chimed in, 10000 dollars more Warren and I would have walked and that's how dumb we were." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "Ira Marshall said you guys are crazy-there are some things you should pay up for, like quality businesses and people." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "If See's Candy, when we were buying it had asked for hundred thousand dollars more Buffett chimed in, 10000 dollars more Warren and I would have walked and that's how dumb we were." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Ira Marshall said you guys are crazy-there are some things you should pay up for, like quality businesses and people." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

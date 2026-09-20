@@ -79,6 +79,6 @@ A moat is [[Charles T. Munger]] and [[Warren Buffett]]’s metaphor for a durabl
 
 ## Mentions in Source
 
-- "So we think in terms of that moat and the ability to keep its width and its impossibility of being crossed as the primary criterion of a great business." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "And we tell our managers we want the moat widened every year." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "Superior companies have deep moats that are continuously widened to provide enduring protection." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "So we think in terms of that moat and the ability to keep its width and its impossibility of being crossed as the primary criterion of a great business." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "And we tell our managers we want the moat widened every year." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Superior companies have deep moats that are continuously widened to provide enduring protection." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

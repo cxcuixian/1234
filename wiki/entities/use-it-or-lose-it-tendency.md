@@ -80,5 +80,5 @@ The Use-It-or-Lose-It Tendency describes the decline of skills and knowledge whe
 
 ## Mentions in Source
 
-- "All skills attenuate with disuse." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "The right antidote to such a loss is to make use of the functional equivalent of the aircraft simulator employed in pilot training." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "All skills attenuate with disuse." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "The right antidote to such a loss is to make use of the functional equivalent of the aircraft simulator employed in pilot training." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

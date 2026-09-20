@@ -80,5 +80,5 @@ Mr. Market is [[entities/benjamin-graham|Benjamin Graham’s]] personification o
 
 ## Mentions in Source
 
-- "Usually, Mr. Market is a temperate and reasonable fellow, but some days he is gripped by irrational fear or greed." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "Graham cautioned the investor to carefully use his own, unemotional judgment of value instead of relying on the often manic-depressive behavior of the financial markets." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Usually, Mr. Market is a temperate and reasonable fellow, but some days he is gripped by irrational fear or greed." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Graham cautioned the investor to carefully use his own, unemotional judgment of value instead of relying on the often manic-depressive behavior of the financial markets." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

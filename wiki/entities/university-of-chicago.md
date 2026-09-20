@@ -81,5 +81,5 @@ The [[entities/university-of-chicago|University of Chicago]] is presented as an 
 
 ## Mentions in Source
 
-- "Having tenured professors who were terrible, the president there actually abolished the entire psychology department." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "And Chicago, in due course, will probably bring back a new and different psychology department." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Having tenured professors who were terrible, the president there actually abolished the entire psychology department." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "And Chicago, in due course, will probably bring back a new and different psychology department." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

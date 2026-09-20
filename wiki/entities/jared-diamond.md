@@ -78,4 +78,4 @@ Jared Diamond is a prominent multidisciplinary scholar who applies evolutionary 
 
 ## Mentions in Source
 
-- "Jared Diamond was awarded the 1999 National Medal of Science by President Clinton for his breakthrough discoveries in evolutionary biology and for landmark research in applying Darwinian theory to such diverse fields as physiology and ecology." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Jared Diamond was awarded the 1999 National Medal of Science by President Clinton for his breakthrough discoveries in evolutionary biology and for landmark research in applying Darwinian theory to such diverse fields as physiology and ecology." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

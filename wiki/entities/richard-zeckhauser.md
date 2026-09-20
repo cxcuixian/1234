@@ -79,5 +79,5 @@ Richard Zeckhauser is presented as a Harvard professor and exceptional bridge pl
 
 ## Mentions in Source
 
-- "Like world-class bridge player Richard Zeckhauser, Charlie scores himself not so much on whether he won the hand, but rather on how well he played it." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "The right way to think is the way Zeckhauser plays bridge. its just that simple." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Like world-class bridge player Richard Zeckhauser, Charlie scores himself not so much on whether he won the hand, but rather on how well he played it." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "The right way to think is the way Zeckhauser plays bridge. its just that simple." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

@@ -80,5 +80,5 @@ Richard Thaler is an economist known for challenging the assumption that human b
 
 ## Mentions in Source
 
-- "Well, it has just invited into a precious slot amid its company of greats a wise and witty Cornell economist, Richard Thaler." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "Thaler believes, with me, that people are often massively irrational in ways predicted by psychology that must be taken into account in microeconomics." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Well, it has just invited into a precious slot amid its company of greats a wise and witty Cornell economist, Richard Thaler." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Thaler believes, with me, that people are often massively irrational in ways predicted by psychology that must be taken into account in microeconomics." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

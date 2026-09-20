@@ -81,6 +81,6 @@ Economies of scale are cost, distribution, information, specialization, and dema
 
 ## Mentions in Source
 
-- "And once we get into microeconomics, we get into the concept of advantages of scale." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "The very nature of things is that if you get a whole lot of volume through your operation, you get better at processing that volume, That's an enormous advantage." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "And there are also disadvantages of scale." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "And once we get into microeconomics, we get into the concept of advantages of scale." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "The very nature of things is that if you get a whole lot of volume through your operation, you get better at processing that volume, That's an enormous advantage." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "And there are also disadvantages of scale." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

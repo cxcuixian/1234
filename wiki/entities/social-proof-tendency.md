@@ -81,5 +81,5 @@ Social-Proof Tendency is the tendency to think or act as nearby people appear to
 
 ## Mentions in Source
 
-- "Social proof, imitative consumption triggered by mere sight of consumption, will not only help induce trial of our beverage." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "Because stress intensifies Social-Proof Tendency, disreputable sales organizations, engaged, for instance, in such action as selling swampland to schoolteachers, manipulate targets into situations combining isolation and stress." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Social proof, imitative consumption triggered by mere sight of consumption, will not only help induce trial of our beverage." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Because stress intensifies Social-Proof Tendency, disreputable sales organizations, engaged, for instance, in such action as selling swampland to schoolteachers, manipulate targets into situations combining isolation and stress." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

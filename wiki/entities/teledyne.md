@@ -79,5 +79,5 @@ Teledyne is presented in [[entities/poor-charlies-almanack|Poor Charlie's Almana
 
 ## Mentions in Source
 
-- "Singleton was co-founder of Teledyne, Inc. and chieF executive of the Los Angeles-based conglomerate [or three decades." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "From 1963 to 1990, Glendyne returned an astounding 20.4 percent compound annual return to shareholders-a period in which the S&P 500 returned 8.0 percent." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Singleton was co-founder of Teledyne, Inc. and chieF executive of the Los Angeles-based conglomerate [or three decades." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "From 1963 to 1990, Glendyne returned an astounding 20.4 percent compound annual return to shareholders-a period in which the S&P 500 returned 8.0 percent." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

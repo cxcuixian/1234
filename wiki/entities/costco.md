@@ -81,6 +81,6 @@ Costco is presented as a business whose scale, specialization, customer loyalty,
 
 ## Mentions in Source
 
-- "At Costco we issued stock options with strike prices of $30 and $60, and Black-Scholes value the $60 ones higher." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "First off, Charlie was astute enough to recognize what a great value Costco membership represented." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "His insight, questioning, and support have made Costco a better-governed and better-operated company." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "At Costco we issued stock options with strike prices of $30 and $60, and Black-Scholes value the $60 ones higher." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "First off, Charlie was astute enough to recognize what a great value Costco membership represented." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "His insight, questioning, and support have made Costco a better-governed and better-operated company." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

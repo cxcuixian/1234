@@ -81,5 +81,5 @@ Richard P. Feynman is presented as a model of scientific reasoning, practical in
 
 ## Mentions in Source
 
-- "Late in life, Feynman was named to the commission that investigated the Challenger Space Shuttle accident." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "He demonstrated the effect of cold temperatures on rubber O-rings and showed how the resulting shrinkage allowed hot gases to escape, causing the explosion." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Late in life, Feynman was named to the commission that investigated the Challenger Space Shuttle accident." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "He demonstrated the effect of cold temperatures on rubber O-rings and showed how the resulting shrinkage allowed hot gases to escape, causing the explosion." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

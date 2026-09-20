@@ -80,5 +80,5 @@ David Ricardo was an English economist whose principle of [[entities/comparative
 
 ## Mentions in Source
 
-- "David Ricardo, born in London, began working with his father at the London Stock Exchange at age fourteen." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "The second interesting problem with synthesis involves two of the most famous examples in economics. Number one is Ricardo's principle of comparative advantage in trade, and the other is Adam Smith's pin factory." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "David Ricardo, born in London, began working with his father at the London Stock Exchange at age fourteen." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "The second interesting problem with synthesis involves two of the most famous examples in economics. Number one is Ricardo's principle of comparative advantage in trade, and the other is Adam Smith's pin factory." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

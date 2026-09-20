@@ -82,5 +82,5 @@ generation_complete: true
 
 ## Mentions in Source
 
-- "Man's imperfect, limited-capacity brain easily drifts into working with what's easily available to it." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "And so the mind overweighs what is easily available and thus displays Availability- Mis Weighing Tendency." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Man's imperfect, limited-capacity brain easily drifts into working with what's easily available to it." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "And so the mind overweighs what is easily available and thus displays Availability- Mis Weighing Tendency." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

@@ -80,6 +80,6 @@ Opportunity cost is the value of the best alternative forgone when a decision is
 
 ## Mentions in Source
 
-- "Remember that highest and best use is always measured by the next best use (opportunity cost)" — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "That's how we make all of our decisions." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "We measure everything against our alternatives." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Remember that highest and best use is always measured by the next best use (opportunity cost)" — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "That's how we make all of our decisions." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "We measure everything against our alternatives." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

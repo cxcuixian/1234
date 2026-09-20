@@ -81,5 +81,5 @@ Reason-Respecting Tendency is the human inclination to comply more readily when 
 
 ## Mentions in Source
 
-- "There is in man, particularly one in an advanced culture, a natural love of accurate cognition and a joy in its exercise." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "No one knew this better than Carl Braun, who designed oil refineries with spectacular skill and integrity." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "There is in man, particularly one in an advanced culture, a natural love of accurate cognition and a joy in its exercise." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "No one knew this better than Carl Braun, who designed oil refineries with spectacular skill and integrity." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

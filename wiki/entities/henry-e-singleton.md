@@ -80,5 +80,5 @@ Henry E. Singleton was the co-founder and chief executive of [[entities/teledyne
 
 ## Mentions in Source
 
-- "Singleton was co-founder of Teledyne, Inc. and chieF executive of the Los Angeles-based conglomerate [or three decades." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "An enormously skilled chess player, he was only 100 points below the Grandmaster level and could play without looking at the board." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Singleton was co-founder of Teledyne, Inc. and chieF executive of the Los Angeles-based conglomerate [or three decades." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "An enormously skilled chess player, he was only 100 points below the Grandmaster level and could play without looking at the board." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

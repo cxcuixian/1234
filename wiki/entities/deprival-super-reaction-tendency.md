@@ -82,6 +82,6 @@ generation_complete: true
 
 ## Mentions in Source
 
-- "The quantity of man's pleasure from a ten dollar gain does not exactly match the quantity of his displeasure from a ten-dollar loss." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "Humans are much the same as this Munger dog." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "Deprival-Super Reaction Tendency is also a huge contributor to ruin from compulsion to gamble." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "The quantity of man's pleasure from a ten dollar gain does not exactly match the quantity of his displeasure from a ten-dollar loss." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Humans are much the same as this Munger dog." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Deprival-Super Reaction Tendency is also a huge contributor to ruin from compulsion to gamble." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

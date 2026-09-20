@@ -79,5 +79,5 @@ John Wooden was an American basketball coach who led the UCLA Bruins and is used
 
 ## Mentions in Source
 
-- "Another idea that I found important is that maximizing non-equality will often work wonders." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "Well, John Wooden of UCLA presented an instructive example when he was the number one basketball coach in the world." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Another idea that I found important is that maximizing non-equality will often work wonders." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Well, John Wooden of UCLA presented an instructive example when he was the number one basketball coach in the world." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

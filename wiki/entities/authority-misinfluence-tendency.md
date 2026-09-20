@@ -82,5 +82,5 @@ Authority-Misinfluence Tendency is the tendency to follow leaders, experts, or o
 
 ## Mentions in Source
 
-- "Living in dominance hierarchies as he does, like all his ancestors before him, man was born mostly to follow leaders, with only a few people doing the leading." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "And so, we find much miscognition from man's Authority-Mis Influence Tendency." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Living in dominance hierarchies as he does, like all his ancestors before him, man was born mostly to follow leaders, with only a few people doing the leading." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "And so, we find much miscognition from man's Authority-Mis Influence Tendency." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]

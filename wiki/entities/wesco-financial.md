@@ -88,7 +88,7 @@ Wesco Financial was structured similarly to [[entities/berkshire-hathaway|Berksh
 
 ## Mentions in Source
 
-- "Since Jack Wheeler held two seats on the Pacific Coast Stock Exchange, the partnership paid low trading commissions while Wheeler, Munger kept the overhead cost at close to zero." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "Since Warren does most of the talking at the Berkshire meeting, I always like to attend the Wesco annual meeting a few days later in Pasadena to hear Charlie's in-depth thinking." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "Berkshire Hathaway and Wesco will accumulate cash every year, and we have a structure that gives us enormous flexibility." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
-- "Wesco is drowning in cash." — [[2/Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Since Jack Wheeler held two seats on the Pacific Coast Stock Exchange, the partnership paid low trading commissions while Wheeler, Munger kept the overhead cost at close to zero." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Since Warren does most of the talking at the Berkshire meeting, I always like to attend the Wesco annual meeting a few days later in Pasadena to hear Charlie's in-depth thinking." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Berkshire Hathaway and Wesco will accumulate cash every year, and we have a structure that gives us enormous flexibility." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "Wesco is drowning in cash." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
