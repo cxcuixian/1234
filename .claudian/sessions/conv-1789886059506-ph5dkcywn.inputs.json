@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789886059506-ph5dkcywn",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789886059571-5l91zo3",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789886059501-ac9kyke",
+      "timestamp": 1789886059501,
+      "rawDisplayText": "[[2/2b-芒格/Poor Charlie's Almanack.md|Poor Charlie's Almanack]]  归纳主要思想",
+      "canonicalText": "[[2/2b-芒格/Poor Charlie's Almanack.md|Poor Charlie's Almanack]]  归纳主要思想",
+      "images": [],
+      "contentDigest": "4f3cb459b117bc4d99192b1bb9642128002b34ecb066c59fbcdb8038ca0ff1f0",
+      "providerUserMessageId": "01a0bd85-eab1-7c12-ae26-b185c2867263",
+      "providerAssistantMessageId": "01a0bd85-d65d-72a3-aa41-6c2d3acb0530"
+    }
+  ]
+}

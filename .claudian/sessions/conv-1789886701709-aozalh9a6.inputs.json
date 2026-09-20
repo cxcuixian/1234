@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789886701709-aozalh9a6",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789886701816-ighrock",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789886701704-lhn2521",
+      "timestamp": 1789886701704,
+      "rawDisplayText": "git commit and push to remote",
+      "canonicalText": "git commit and push to remote",
+      "images": [],
+      "contentDigest": "f839c1fdc94ea858649caf4fc6b9c9f303a9dc8414d4997f7b62a3c34bbb06ef",
+      "providerUserMessageId": "01a0bd8f-bb94-7d42-b205-b80bfdcc29a8",
+      "providerAssistantMessageId": "01a0bd8f-ac6e-73f2-a2a5-1f1443684eca"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789886975003-bmclbnj",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789886974974-ou5fxqc",
+      "timestamp": 1789886974975,
+      "rawDisplayText": ".claudian and .obsidian should add to git",
+      "canonicalText": ".claudian and .obsidian should add to git",
+      "images": [],
+      "contentDigest": "7844e957742bce9afeee4368d4b396e2ff83cf099471ec94022746daf1375c28",
+      "providerUserMessageId": "01a0bd93-d625-72b0-91a4-f77b31ef53e9"
+    }
+  ]
+}

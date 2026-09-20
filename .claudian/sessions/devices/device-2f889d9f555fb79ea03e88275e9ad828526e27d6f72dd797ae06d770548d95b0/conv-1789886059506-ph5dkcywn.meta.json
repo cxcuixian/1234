@@ -1,0 +1,27 @@
+{
+  "id": "conv-1789886059506-ph5dkcywn",
+  "providerId": "codex",
+  "title": "Summarize Poor Charlie’s Almanack",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789886059523,
+  "lastActivityAt": 1789886209167,
+  "sessionId": "01a0bd85-d560-7832-96f8-2241be1a0d93",
+  "selectedModel": "gpt-5.6-luna",
+  "providerState": {
+    "threadId": "01a0bd85-d560-7832-96f8-2241be1a0d93",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "/Users/aires/.codex/sessions/2026/09/20/rollout-2026-09-20T14-34-19-01a0bd85-d560-7832-96f8-2241be1a0d93.jsonl",
+    "transcriptRootPath": "/Users/aires/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "usage": {
+    "inputTokens": 104448,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 96000,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 104448,
+    "percentage": 40,
+    "model": "gpt-5.6-luna"
+  }
+}

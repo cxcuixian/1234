@@ -1,0 +1,27 @@
+{
+  "id": "conv-1789886701709-aozalh9a6",
+  "providerId": "codex",
+  "title": "Commit and push changes to remote",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789886701734,
+  "lastActivityAt": 1789886974975,
+  "sessionId": "01a0bd8f-abe9-70b1-b607-35b74c7f311c",
+  "selectedModel": "gpt-5.6-luna",
+  "providerState": {
+    "threadId": "01a0bd8f-abe9-70b1-b607-35b74c7f311c",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "/Users/aires/.codex/sessions/2026/09/20/rollout-2026-09-20T14-45-04-01a0bd8f-abe9-70b1-b607-35b74c7f311c.jsonl",
+    "transcriptRootPath": "/Users/aires/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "usage": {
+    "inputTokens": 60877,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 60160,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 60877,
+    "percentage": 24,
+    "model": "gpt-5.6-luna"
+  }
+}
