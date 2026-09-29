@@ -13,7 +13,7 @@
       "canonicalText": "git commit and push to remote",
       "images": [],
       "contentDigest": "f839c1fdc94ea858649caf4fc6b9c9f303a9dc8414d4997f7b62a3c34bbb06ef",
-      "providerUserMessageId": "01a0bd8f-bb94-7d42-b205-b80bfdcc29a8",
+      "providerUserMessageId": "01a0bd8f-ac6e-73f2-a2a5-1f1443684eca",
       "providerAssistantMessageId": "01a0bd8f-ac6e-73f2-a2a5-1f1443684eca"
     },
     {
@@ -27,7 +27,21 @@
       "canonicalText": ".claudian and .obsidian should add to git",
       "images": [],
       "contentDigest": "7844e957742bce9afeee4368d4b396e2ff83cf099471ec94022746daf1375c28",
-      "providerUserMessageId": "01a0bd93-d625-72b0-91a4-f77b31ef53e9"
+      "providerUserMessageId": "01a0bd93-cc2c-7032-847b-c79680d02e2a",
+      "providerAssistantMessageId": "01a0bd93-cc2c-7032-847b-c79680d02e2a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790669470482-xsz815i",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1790669470448-5ldw8gc",
+      "timestamp": 1790669470448,
+      "rawDisplayText": "git commit and push to remote",
+      "canonicalText": "git commit and push to remote",
+      "images": [],
+      "contentDigest": "f839c1fdc94ea858649caf4fc6b9c9f303a9dc8414d4997f7b62a3c34bbb06ef",
+      "providerUserMessageId": "01a0ec38-0036-7d52-bfdb-827582265003"
     }
   ]
 }

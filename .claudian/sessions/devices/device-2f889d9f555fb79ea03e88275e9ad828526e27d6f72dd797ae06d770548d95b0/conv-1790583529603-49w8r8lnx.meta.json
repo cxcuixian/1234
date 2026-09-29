@@ -1,0 +1,28 @@
+{
+  "id": "conv-1790583529603-49w8r8lnx",
+  "providerId": "codex",
+  "title": "Format content as Obsidian Markdown",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790583529634,
+  "lastActivityAt": 1790584820092,
+  "sessionId": "01a0e718-623f-77f0-85c6-0f893263f60d",
+  "selectedModel": "gpt-6-luna",
+  "providerState": {
+    "threadId": "01a0e718-623f-77f0-85c6-0f893263f60d",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "/Users/aires/.codex/sessions/2026/09/28/rollout-2026-09-28T16-18-50-01a0e718-623f-77f0-85c6-0f893263f60d.jsonl",
+    "transcriptRootPath": "/Users/aires/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "linkedContentPath": "4/毛泽东/毛泽东选集.md",
+  "usage": {
+    "inputTokens": 60491,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 59136,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 60491,
+    "percentage": 23,
+    "model": "gpt-6-luna"
+  }
+}

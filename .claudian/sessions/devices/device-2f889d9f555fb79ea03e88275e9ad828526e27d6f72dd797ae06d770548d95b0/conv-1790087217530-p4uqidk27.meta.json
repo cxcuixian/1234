@@ -1,0 +1,28 @@
+{
+  "id": "conv-1790087217530-p4uqidk27",
+  "providerId": "codex",
+  "title": "Math",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790087217558,
+  "lastActivityAt": 1790523058556,
+  "sessionId": "01a0c983-5025-7012-9b19-98beaa80a47e",
+  "selectedModel": "gpt-6-luna",
+  "providerState": {
+    "threadId": "01a0c983-5025-7012-9b19-98beaa80a47e",
+    "nativeConversationContextEstablished": true,
+    "sessionFilePath": "/Users/aires/.codex/sessions/2026/09/22/rollout-2026-09-22T22-27-01-01a0c983-5025-7012-9b19-98beaa80a47e.jsonl",
+    "transcriptRootPath": "/Users/aires/.codex/sessions",
+    "workspaceDependencyToolVersion": 1
+  },
+  "linkedContentPath": "2/2a-math/The Princeton Companion to Mathematics.md",
+  "usage": {
+    "inputTokens": 123511,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 121856,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 123511,
+    "percentage": 48,
+    "model": "gpt-6-astra"
+  }
+}

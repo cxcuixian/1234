@@ -4,9 +4,9 @@
   "title": "Summarize Poor Charlie’s Almanack",
   "titleGenerationStatus": "success",
   "createdAt": 1789886059523,
-  "lastActivityAt": 1789886209167,
+  "lastActivityAt": 1790587115126,
   "sessionId": "01a0bd85-d560-7832-96f8-2241be1a0d93",
-  "selectedModel": "gpt-5.6-luna",
+  "selectedModel": "gpt-6-luna",
   "providerState": {
     "threadId": "01a0bd85-d560-7832-96f8-2241be1a0d93",
     "nativeConversationContextEstablished": true,
@@ -15,13 +15,13 @@
     "workspaceDependencyToolVersion": 1
   },
   "usage": {
-    "inputTokens": 104448,
+    "inputTokens": 152728,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 96000,
+    "cacheReadInputTokens": 150272,
     "contextWindow": 258400,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 104448,
-    "percentage": 40,
-    "model": "gpt-5.6-luna"
+    "contextTokens": 152728,
+    "percentage": 59,
+    "model": "gpt-6-luna"
   }
 }

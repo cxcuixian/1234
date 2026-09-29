@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1790583529603-49w8r8lnx",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790583529695-cerd7zw",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1790583529595-vpw8huf",
+      "timestamp": 1790583529595,
+      "rawDisplayText": "用obsidian markdown格式化",
+      "canonicalText": "用obsidian markdown格式化",
+      "context": {
+        "linkedContent": {
+          "path": "4/毛泽东/毛泽东选集.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "f7538fab5a8205c4c717be449931b7d8229589dc6a218195cf535122aa5db37e",
+      "providerUserMessageId": "01a0e718-9ced-7ff2-af92-792bfcd1380e",
+      "providerAssistantMessageId": "01a0e718-6367-7922-835e-1be6c5753941"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790584643077-3oyb3to",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1790584643064-v9fn92t",
+      "timestamp": 1790584643064,
+      "rawDisplayText": "用munger skills学习[[4/毛泽东/毛泽东选集.md|毛泽东选集]] 保存到[[4/毛泽东/毛泽东选集QA.md|毛泽东选集QA]]",
+      "canonicalText": "用munger skills学习[[4/毛泽东/毛泽东选集.md|毛泽东选集]] 保存到[[4/毛泽东/毛泽东选集QA.md|毛泽东选集QA]]",
+      "images": [],
+      "contentDigest": "f4d5b9c2d0e6970b835ec2e772f69f54ee788bb9e5b9847757899e19bb94dc0a",
+      "providerUserMessageId": "01a0e729-6f2f-7d50-8d5d-f0a82bb58c66",
+      "providerAssistantMessageId": "01a0e729-5e3c-78f3-85d4-aa71a52ed597"
+    }
+  ]
+}

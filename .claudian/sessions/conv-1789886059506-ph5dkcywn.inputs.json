@@ -13,8 +13,101 @@
       "canonicalText": "[[2/2b-芒格/Poor Charlie's Almanack.md|Poor Charlie's Almanack]]  归纳主要思想",
       "images": [],
       "contentDigest": "4f3cb459b117bc4d99192b1bb9642128002b34ecb066c59fbcdb8038ca0ff1f0",
-      "providerUserMessageId": "01a0bd85-eab1-7c12-ae26-b185c2867263",
+      "providerUserMessageId": "01a0bd85-d65d-72a3-aa41-6c2d3acb0530",
       "providerAssistantMessageId": "01a0bd85-d65d-72a3-aa41-6c2d3acb0530"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790345733790-nbagdkb",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1790345733748-6oxil08",
+      "timestamp": 1790345733748,
+      "rawDisplayText": "[[2/2b-芒格/Poor Charlie's Almanack.md|Poor Charlie's Almanack]] write a skill for codex agents how to learning new knowledge save to /Users/aires/orca/1234/",
+      "canonicalText": "[[2/2b-芒格/Poor Charlie's Almanack.md|Poor Charlie's Almanack]] write a skill for codex agents how to learning new knowledge save to /Users/aires/orca/1234/",
+      "images": [],
+      "contentDigest": "1501bf3e5f946f5776224df55343751f91824ee5d4a9a08f26a07ca0e3266d40",
+      "providerUserMessageId": "01a0d8eb-ed10-7721-b4c5-71ed6d2b900e",
+      "providerAssistantMessageId": "01a0d8eb-ed10-7721-b4c5-71ed6d2b900e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790401776442-cmfn5x5",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1790401776427-n9du55x",
+      "timestamp": 1790401776427,
+      "rawDisplayText": "[[2/2b-芒格/Poor Charlie's Almanack.md|Poor Charlie's Almanack]]  using munger learning skills learn the books and save to [[2/2b-芒格/QA.md|QA]] form based [[skills/obsidian-markdown/SKILL.md|SKILL]]",
+      "canonicalText": "[[2/2b-芒格/Poor Charlie's Almanack.md|Poor Charlie's Almanack]]  using munger learning skills learn the books and save to [[2/2b-芒格/QA.md|QA]] form based [[skills/obsidian-markdown/SKILL.md|SKILL]]",
+      "images": [],
+      "contentDigest": "93645fc215c125a621e0d04cf25657909a37585119a508395de74448e8e271a4",
+      "providerUserMessageId": "01a0dc43-0b47-70f2-a84e-ed77efd379e1",
+      "providerAssistantMessageId": "01a0dc43-0b47-70f2-a84e-ed77efd379e1"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790560465621-mizvr33",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1790560465584-vh8h2bs",
+      "timestamp": 1790560465584,
+      "rawDisplayText": "@4/HowToLiveBetter/ 用芒格的哲学思想解释其背后的原理, 保存到 [[2/2b-芒格/《穷查理宝典》学习问答.md|《穷查理宝典》学习问答]]",
+      "canonicalText": "@4/HowToLiveBetter/ 用芒格的哲学思想解释其背后的原理, 保存到 [[2/2b-芒格/《穷查理宝典》学习问答.md|《穷查理宝典》学习问答]]",
+      "images": [],
+      "contentDigest": "55fe1cbd3b5a2e074ac95fe51c75b48f3ed93a38c953623ecc0f64b5832ab58a",
+      "providerUserMessageId": "01a0e5b8-85f7-7723-ac41-ebe6621e15b3",
+      "providerAssistantMessageId": "01a0e5b8-78d7-7212-8485-16c04ebecbb1"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790561423769-ggfqk2b",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1790561423737-vyeblay",
+      "timestamp": 1790561423737,
+      "rawDisplayText": "这个表格的格式很乱, 相关的内容应该放在一个格子里",
+      "canonicalText": "这个表格的格式很乱, 相关的内容应该放在一个格子里",
+      "context": {
+        "editorSelection": {
+          "notePath": "2/2b-芒格/《穷查理宝典》学习问答.md",
+          "mode": "selection",
+          "selectedText": "逆境恢复]]。",
+          "lineCount": 1,
+          "startLine": 288
+        }
+      },
+      "images": [],
+      "contentDigest": "deed7261e9e4c3b92121b971a49f4e0d2463fdb41a60ef1a8a26ae26ab2f8d86",
+      "providerUserMessageId": "01a0e5c7-206f-7fe3-8233-48cf9a0996f1",
+      "providerAssistantMessageId": "01a0e5c7-120f-7321-b35e-97a387fb6a70"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790584948696-iqxc4oa",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1790584948674-sp7kisy",
+      "timestamp": 1790584948674,
+      "rawDisplayText": "[[4/毛泽东/毛泽东选集.md#反对本本主义|《反对本本主义》]]背后的芒格思想, 保存到 [[2/2b-芒格/《穷查理宝典》QA.md|《穷查理宝典》QA]]",
+      "canonicalText": "[[4/毛泽东/毛泽东选集.md#反对本本主义|《反对本本主义》]]背后的芒格思想, 保存到 [[2/2b-芒格/《穷查理宝典》QA.md|《穷查理宝典》QA]]",
+      "images": [],
+      "contentDigest": "5adc2c7db806bcb922799c2fcc829efa176f2cd28fa7ed9c11114cbb7b1f054e",
+      "providerUserMessageId": "01a0e72e-1990-7bf1-9222-f099138222f7",
+      "providerAssistantMessageId": "01a0e72e-081d-70b2-8b7f-5f67275b59c8"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790586612855-jdqkr9z",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1790586612830-omzn0v6",
+      "timestamp": 1790586612830,
+      "rawDisplayText": "[[4/毛泽东/毛泽东选集.md#大兴调查研究之风|《大兴调查研究之风》]]背后的芒格思想, 保存到 《穷查理宝典》QA",
+      "canonicalText": "[[4/毛泽东/毛泽东选集.md#大兴调查研究之风|《大兴调查研究之风》]]背后的芒格思想, 保存到 《穷查理宝典》QA",
+      "images": [],
+      "contentDigest": "ff95693e009c41d15d119d5a9c6360e80ece7a3688fa149170a902cb31738067",
+      "providerUserMessageId": "01a0e747-820b-7431-b4a3-5c6ad8a99141",
+      "providerAssistantMessageId": "01a0e747-6cd4-74a1-9612-ab33bae2c8b5"
     }
   ]
 }
