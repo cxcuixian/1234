@@ -1,14 +1,19 @@
 ---
-type: entity
+type: concept
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-09-23
+generation_complete: true
+type_confirmed: true
 sources:
   - "[[sources/poor-charlies-almanack_38aa4e]]"
+  - "[[sources/2026-09-16_e24543]]"
+  - "[[sources/2026-09-18_f46601]]"
 tags:
+  - "term"
 aliases:
   - "Economic moat"
   - "Competitive moat"
-generation_complete: true
+  - "护城河"
 ---
 
 # Moat
@@ -17,6 +22,7 @@ generation_complete: true
 
 A moat is [[Charles T. Munger]] and [[Warren Buffett]]’s metaphor for a durable competitive advantage that protects a business from competitors. An excellent business should possess a moat that can be maintained or widened over time, supporting durable profitability and long-term value creation. Sources of moat include brands, pricing power, distribution, scale, customer loyalty, and other structural advantages, as illustrated by businesses such as [[Coca-Cola]], [[Costco]], and [[See's Candies]]. Moat analysis is central to judging a company’s staying quality and distinguishing a superior business from one that is merely cheap.
 
+Moat analysis also serves as a practical investment criterion: the durability and breadth of a competitive advantage depend not only on a company’s profitability, but also on industry conditions and the strength of its second-ranked competitor.
 ## Related Entities
 
 - [[entities/berkshire-hathaway|Berkshire Hathaway]]
@@ -40,7 +46,7 @@ A moat is [[Charles T. Munger]] and [[Warren Buffett]]’s metaphor for a durabl
 - [[entities/mr-market|Mr. Market]]
 - [[entities/behavioral-economics|Behavioral Economics]]
 - [[entities/social-proof-tendency|Social-Proof Tendency]]
-- [[entities/deprival-super-reaction-tendency|Deprival-Super Reaction Tendency]]
+- [[deprival-super-reaction-tendency|Deprival-Super Reaction Tendency]]
 - [[entities/reason-respecting-tendency|Reason-Respecting Tendency]]
 - [[entities/availability-misweighing-tendency|Availability-Misweighing Tendency]]
 - [[entities/use-it-or-lose-it-tendency|Use-It-or-Lose-It Tendency]]
@@ -62,6 +68,9 @@ A moat is [[Charles T. Munger]] and [[Warren Buffett]]’s metaphor for a durabl
 - [[entities/economies-of-scale|Economies of Scale]]
 - [[entities/pari-mutuel-system|Pari-Mutuel System]]
 - [[entities/poor-charlies-almanack|Poor Charlie's Almanack]]
+- [[entities/宁德时代|CATL]]
+- [[entities/欣旺达|Sunwoda]]
+- [[entities/福特汽车|Ford]]
 
 ## Related Concepts
 
@@ -76,9 +85,18 @@ A moat is [[Charles T. Munger]] and [[Warren Buffett]]’s metaphor for a durabl
 - [[concepts/worldly-wisdom|Worldly Wisdom]]
 - [[concepts/compound-interest|Compound Interest]]
 - [[concepts/checklist|Checklist]]
+- [[concepts/favorable-industry-conditions|Favorable Industry Conditions]]
+- [[concepts/第一性原理|First-Principles Reasoning]]
+
+## New Information (2026-09-18)
+
+- An investment may warrant selling when the moat has disappeared, management quality has deteriorated, or the business model has changed, because these conditions suggest that the original investment thesis may no longer hold. (This adds an exit-timing application of moat analysis that is not explicitly covered on the existing page.)
 
 ## Mentions in Source
 
+- "现在的行情就是温水煮青蛙，宁德时代的护城河并没有想象那么高" — [[4/daily/2026-09-16|2026-09-16]]
+- "巴菲特和芒格以前投资福特汽车，后来他们发现汽车是门重资产不赚钱的生意，工人还经常罢工，护城河也不够宽" — [[4/daily/2026-09-16|2026-09-16]]
 - "So we think in terms of that moat and the ability to keep its width and its impossibility of being crossed as the primary criterion of a great business." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
 - "And we tell our managers we want the moat widened every year." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
 - "Superior companies have deep moats that are continuously widened to provide enduring protection." — [[Poor Charlie's Almanack|Poor Charlie's Almanack]]
+- "什么时候卖出，护城河没了，垃圾管理层，商业模式改变" (When to sell: the moat is gone, the management is terrible, or the business model has changed.) — [[4/daily/2026-09-18|2026-09-18]]

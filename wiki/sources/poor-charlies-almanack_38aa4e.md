@@ -32,7 +32,7 @@ generation_complete: true
 - [[entities/coca-cola|Coca-Cola]] — Illustrates brand power, scale, conditioning, and reinforcing competitive advantages.
 - [[entities/sees-candies|See's Candies]] — Demonstrates the value of paying for quality businesses with pricing power.
 - [[entities/teledyne|Teledyne]] — Case study in exceptional capital allocation under [[entities/henry-e-singleton|Henry E. Singleton]].
-- [[entities/moat|Moat]] — Metaphor for a durable competitive advantage that can be maintained or widened.
+- [[moat|Moat]] — Metaphor for a durable competitive advantage that can be maintained or widened.
 
 ## Key Concepts
 

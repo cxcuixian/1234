@@ -89,5 +89,5 @@ Dopamine agonists have potential relevance to dopamine-related [[Movement disord
 
 ## Mentions in Source
 
-- "Certain medications such as [dopamine agonists](https://en.wikipedia.org/wiki/Dopamine_agonist "Dopamine agonist") are not used, as they may worsen psychotic symptoms to those taking neuroleptic drugs." — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
-- "It is rare for dopamine agonists to be used for antipsychotic-induced EPS, as they may exacerbate psychosis.[^9]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Certain medications such as [dopamine agonists](https://en.wikipedia.org/wiki/Dopamine_agonist "Dopamine agonist") are not used, as they may worsen psychotic symptoms to those taking neuroleptic drugs." — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "It is rare for dopamine agonists to be used for antipsychotic-induced EPS, as they may exacerbate psychosis.[^9]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

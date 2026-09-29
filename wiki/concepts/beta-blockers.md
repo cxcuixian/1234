@@ -89,4 +89,4 @@ Beta blockers are used as a treatment option for [[Akathisia]], particularly whe
 
 ## Mentions in Source
 
-- "[Beta blockers](https://en.wikipedia.org/wiki/Beta_blocker "Beta blocker") (like [propranolol](https://en.wikipedia.org/wiki/Propranolol "Propranolol")) are frequently used to treat akathisia." — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "[Beta blockers](https://en.wikipedia.org/wiki/Beta_blocker "Beta blocker") (like [propranolol](https://en.wikipedia.org/wiki/Propranolol "Propranolol")) are frequently used to treat akathisia." — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

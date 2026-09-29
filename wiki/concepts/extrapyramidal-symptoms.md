@@ -1,14 +1,16 @@
 ---
 type: concept
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-09-23
+generation_complete: true
 sources:
   - "[[sources/extrapyramidal-symptoms_95df6d]]"
+  - "[[sources/2026-09-14_0d817b]]"
 tags:
+  - "term"
 aliases:
   - "EPS"
   - "Extrapyramidal side effects"
-generation_complete: true
 ---
 
 # Extrapyramidal symptoms
@@ -42,7 +44,6 @@ Management may involve changing or discontinuing the causative medication and us
 - [[concepts/tardive-dyskinesia|Tardive dyskinesia]]
 - [[concepts/typical-antipsychotic|Typical antipsychotic]]
 - [[concepts/atypical-antipsychotic|Atypical antipsychotic]]
-- [[concepts/parkinsonism|Parkinsonism]]
 - [[concepts/dopamine-d-sub2sub-receptors|dopamine D <sub>2</sub> receptors]]
 - [[concepts/oculogyric-crisis|Oculogyric crisis]]
 - [[concepts/anticholinergic-medications|Anticholinergic medications]]
@@ -91,8 +92,10 @@ Management may involve changing or discontinuing the causative medication and us
 - [[entities/escitalopram|Escitalopram]]
 - [[entities/fluoxetine|Fluoxetine]]
 - [[entities/bupropion|Bupropion]]
+- [[entities/奥氮平|Olanzapine]]
 
 ## Mentions in Source
 
-- "Extrapyramidal symptoms (EPS) are symptoms that are archetypically associated with the extrapyramidal system of the brain." — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
-- "Extrapyramidal symptoms are most commonly caused by typical antipsychotic drugs that antagonize dopamine D <sub>2</sub> receptors.[^2]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Extrapyramidal symptoms (EPS) are symptoms that are archetypically associated with the extrapyramidal system of the brain." — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Extrapyramidal symptoms are most commonly caused by typical antipsychotic drugs that antagonize dopamine D <sub>2</sub> receptors.[^2]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "人要经历过磨难才会成长，遇到不幸的时候就停下来休息一下，没有完人，人都会犯错，精神分裂，持续药物治疗，症和病的区别，锥体外系反应，Extrapyramidal Symptoms，肌张力障碍，静坐不能，帕金森，迟发性运动障碍，泌乳素，奥氮平，化学还是有用，不然药物你都认不全，粒细胞缺乏症，多巴胺，D2受体，代谢综合症，食欲大增，代谢变慢，礼来，血糖，多巴胺，去甲肾上腺素，痛苦的童年，躁狂，三旺，情绪，信心，思维" — [[4/daily/2026-09-14|2026-09-14]]

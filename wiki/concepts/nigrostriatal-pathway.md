@@ -96,4 +96,4 @@ The **nigrostriatal pathway** is a dopaminergic neural pathway connecting neuron
 
 ## Mentions in Source
 
-- "Although Parkinson's disease is primarily a disease of the nigrostriatal pathway and not the extrapyramidal system, loss of dopaminergic neurons in the substantia nigra leads to dysregulation of the extrapyramidal system." — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Although Parkinson's disease is primarily a disease of the nigrostriatal pathway and not the extrapyramidal system, loss of dopaminergic neurons in the substantia nigra leads to dysregulation of the extrapyramidal system." — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

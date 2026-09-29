@@ -32,7 +32,7 @@ Inversion is a problem-solving method that examines a situation backward: instea
 
 - **Personal conduct:** Ask which habits or decisions would predictably damage health, relationships, judgment, or reputation, then avoid them.
 - **Investing:** Identify the conditions that could permanently impair capital, such as excessive leverage, weak incentives, poor business economics, or paying an unjustifiable price.
-- **Business strategy:** Analyze how a company could lose its competitive position and use that analysis to protect its [[entities/moat|Moat]].
+- **Business strategy:** Analyze how a company could lose its competitive position and use that analysis to protect its [[moat|Moat]].
 - **Education:** Determine which learning practices produce superficial understanding or rapid forgetting, then design instruction to prevent those outcomes.
 - **Public policy:** Evaluate unintended consequences, institutional incentives, and failure modes before implementing a policy.
 - **Complex systems:** Reduce uncertainty by removing obvious paths to disaster when reliable prediction is unavailable.
@@ -72,12 +72,12 @@ Inversion is a problem-solving method that examines a situation backward: instea
 - [[entities/richard-thaler|Richard Thaler]]
 - [[entities/university-of-chicago|University of Chicago]]
 - [[entities/robert-b-cialdini|Robert B. Cialdini]]
-- [[entities/moat|Moat]]
+- [[moat|Moat]]
 - [[entities/mr-market|Mr. Market]]
 - [[entities/opportunity-cost|Opportunity Cost]]
 - [[entities/behavioral-economics|Behavioral Economics]]
 - [[entities/social-proof-tendency|Social-Proof Tendency]]
-- [[entities/deprival-super-reaction-tendency|Deprival-Super Reaction Tendency]]
+- [[deprival-super-reaction-tendency|Deprival-Super Reaction Tendency]]
 - [[entities/reason-respecting-tendency|Reason-Respecting Tendency]]
 - [[entities/availability-misweighing-tendency|Availability-Misweighing Tendency]]
 - [[entities/use-it-or-lose-it-tendency|Use-It-or-Lose-It Tendency]]

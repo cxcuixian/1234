@@ -78,4 +78,4 @@ Fluphenazine is a typical antipsychotic medication and a dopamine D2 receptor an
 
 ## Mentions in Source
 
-- "The most common [typical antipsychotics](https://en.wikipedia.org/wiki/Typical_antipsychotics "Typical antipsychotics") associated with EPS are [haloperidol](https://en.wikipedia.org/wiki/Haloperidol "Haloperidol") and [fluphenazine](https://en.wikipedia.org/wiki/Fluphenazine "Fluphenazine").[^4]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "The most common [typical antipsychotics](https://en.wikipedia.org/wiki/Typical_antipsychotics "Typical antipsychotics") associated with EPS are [haloperidol](https://en.wikipedia.org/wiki/Haloperidol "Haloperidol") and [fluphenazine](https://en.wikipedia.org/wiki/Fluphenazine "Fluphenazine").[^4]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

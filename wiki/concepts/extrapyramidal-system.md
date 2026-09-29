@@ -93,5 +93,5 @@ It is also relevant to the evaluation and management of [[Pseudoparkinsonism]], 
 
 ## Mentions in Source
 
-- "Extrapyramidal symptoms (EPS) are symptoms that are archetypically associated with the extrapyramidal system of the brain." — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
-- "Although Parkinson's disease is primarily a disease of the nigrostriatal pathway and not the extrapyramidal system, loss of dopaminergic neurons in the substantia nigra leads to dysregulation of the extrapyramidal system." — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Extrapyramidal symptoms (EPS) are symptoms that are archetypically associated with the extrapyramidal system of the brain." — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Although Parkinson's disease is primarily a disease of the nigrostriatal pathway and not the extrapyramidal system, loss of dopaminergic neurons in the substantia nigra leads to dysregulation of the extrapyramidal system." — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

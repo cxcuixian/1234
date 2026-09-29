@@ -77,4 +77,4 @@ Metoclopramide is an antiemetic medication whose anti-dopaminergic activity can 
 
 ## Mentions in Source
 
-- "Other anti-dopaminergic drugs, like the antiemetic [metoclopramide](https://en.wikipedia.org/wiki/Metoclopramide "Metoclopramide"), can also result in extrapyramidal side effects.[^6]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Other anti-dopaminergic drugs, like the antiemetic [metoclopramide](https://en.wikipedia.org/wiki/Metoclopramide "Metoclopramide"), can also result in extrapyramidal side effects.[^6]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

@@ -14,14 +14,14 @@ generation_complete: true
 
 ## Description
 
-Costco is presented as a business whose scale, specialization, customer loyalty, and pricing practices create a strong competitive position. [[Charles T. Munger]] highlights Costco’s discount warehouse model as an example of how extreme emphasis on one factor can make that factor disproportionately important. The company is also described as having a [[Moat]] and pricing or operating advantages that are difficult for competitors to reproduce. [[Charles T. Munger]]’s service on Costco’s board is portrayed as an extension of his interest in high-quality, well-run businesses, including the leadership of [[Jim Sinegal]].
+Costco is presented as a business whose scale, specialization, customer loyalty, and pricing practices create a strong competitive position. [[Charles T. Munger]] highlights Costco’s discount warehouse model as an example of how extreme emphasis on one factor can make that factor disproportionately important. The company is also described as having a [[moat]] and pricing or operating advantages that are difficult for competitors to reproduce. [[Charles T. Munger]]’s service on Costco’s board is portrayed as an extension of his interest in high-quality, well-run businesses, including the leadership of [[Jim Sinegal]].
 
 ## Related Entities
 
 - [[entities/charles-t-munger|Charles T. Munger]]
 - [[entities/jim-sinegal|Jim Sinegal]]
 - [[entities/berkshire-hathaway|Berkshire Hathaway]]
-- [[entities/moat|Moat]]
+- [[moat|Moat]]
 - [[entities/warren-buffett|Warren Buffett]]
 - [[entities/benjamin-franklin|Benjamin Franklin]]
 - [[entities/cicero|Cicero]]
@@ -40,7 +40,7 @@ Costco is presented as a business whose scale, specialization, customer loyalty,
 - [[entities/opportunity-cost|Opportunity Cost]]
 - [[entities/behavioral-economics|Behavioral Economics]]
 - [[entities/social-proof-tendency|Social-Proof Tendency]]
-- [[entities/deprival-super-reaction-tendency|Deprival-Super Reaction Tendency]]
+- [[deprival-super-reaction-tendency|Deprival-Super Reaction Tendency]]
 - [[entities/reason-respecting-tendency|Reason-Respecting Tendency]]
 - [[entities/availability-misweighing-tendency|Availability-Misweighing Tendency]]
 - [[entities/use-it-or-lose-it-tendency|Use-It-or-Lose-It Tendency]]

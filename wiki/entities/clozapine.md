@@ -77,4 +77,4 @@ Clozapine is an atypical antipsychotic presented as a possible substitute when a
 
 ## Mentions in Source
 
-- "If the EPS are induced by an [antipsychotic](https://en.wikipedia.org/wiki/Antipsychotic "Antipsychotic"), EPS may be reduced by decreasing the dose of the antipsychotic or by switching from a [typical antipsychotic](https://en.wikipedia.org/wiki/Typical_antipsychotic "Typical antipsychotic") to an (or to a different) [atypical antipsychotic](https://en.wikipedia.org/wiki/Atypical_antipsychotic "Atypical antipsychotic"), such as [aripipr..." — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "If the EPS are induced by an [antipsychotic](https://en.wikipedia.org/wiki/Antipsychotic "Antipsychotic"), EPS may be reduced by decreasing the dose of the antipsychotic or by switching from a [typical antipsychotic](https://en.wikipedia.org/wiki/Typical_antipsychotic "Typical antipsychotic") to an (or to a different) [atypical antipsychotic](https://en.wikipedia.org/wiki/Atypical_antipsychotic "Atypical antipsychotic"), such as [aripipr..." — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

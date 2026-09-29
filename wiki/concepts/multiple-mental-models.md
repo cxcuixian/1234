@@ -1,14 +1,17 @@
 ---
 type: concept
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-09-23
+generation_complete: true
 sources:
   - "[[sources/poor-charlies-almanack_38aa4e]]"
+  - "[[sources/2026-09-13_40ec5a]]"
 tags:
+  - "theory"
 aliases:
   - "Multidisciplinary Mental Models"
   - "Latticework of Mental Models"
-generation_complete: true
+  - "多学科模型"
 ---
 
 # Multiple Mental Models
@@ -24,24 +27,25 @@ Multiple Mental Models is [[entities/charles-t-munger|Charles T. Munger]]’s me
 - Reveals interactions, second-order effects, trade-offs, and hidden causes.
 - Helps distinguish useful knowledge from isolated memorization.
 - Supports better judgment by combining broad knowledge with a defined [[concepts/circle-of-competence|Circle of Competence]].
-- Connects closely with [[concepts/inversion|Inversion]], [[concepts/checklist|Checklist]], and the [[concepts/lollapalooza-effect|Lollapalooza Effect]].
+- Connects closely with [[concepts/反过来想|Inversion]], [[concepts/checklist|Checklist]], and the [[concepts/lollapalooza-effect|Lollapalooza Effect]].
 - Includes both descriptive models, which explain how systems work, and decision models, which guide action.
 - Is particularly useful when problems involve incentives, uncertainty, feedback, or complex human behavior.
-
+- Connects multiple mental models with cognition and understanding, emphasizing that seeing the world from several angles can matter more than exceptional cleverness.
+- Encourages sustained learning and seeking explanations or principles that transfer across different fields.
 ## Applications
 
 - **Business analysis:** Evaluate competitive advantages, incentives, industry structure, capital allocation, and long-term economics using models such as [[concepts/competitive-advantage|Competitive Advantage]], [[entities/economies-of-scale|Economies of Scale]], and [[concepts/agency-cost|Agency Cost]].
-- **Investment decisions:** Combine [[concepts/margin-of-safety|Margin of Safety]], [[concepts/compound-interest|Compound Interest]], [[entities/opportunity-cost|Opportunity Cost]], and [[entities/moat|Moat]] models rather than relying on a single valuation technique.
+- **Investment decisions:** Combine [[concepts/margin-of-safety|Margin of Safety]], [[concepts/compound-interest|Compound Interest]], [[entities/opportunity-cost|Opportunity Cost]], and [[moat|Moat]] models rather than relying on a single valuation technique.
 - **Behavioral analysis:** Identify biases and social forces such as [[concepts/incentive-caused-bias|Incentive-Caused Bias]], [[entities/social-proof-tendency|Social-Proof Tendency]], and [[entities/authority-misinfluence-tendency|Authority-Misinfluence Tendency]].
-- **Problem solving:** Apply [[concepts/inversion|Inversion]] to ask how failure could occur, then use checklists and cross-disciplinary models to reduce preventable errors.
+- **Problem solving:** Apply [[concepts/反过来想|Inversion]] to ask how failure could occur, then use checklists and cross-disciplinary models to reduce preventable errors.
 - **Strategic decision-making:** Examine opportunity costs, feedback loops, comparative advantages, and possible [[concepts/lollapalooza-effect|Lollapalooza Effects]] created by several forces acting together.
 - **Personal learning:** Build a durable knowledge structure by connecting ideas from psychology, economics, science, history, and practical experience.
 - **Organizational management:** Assess incentives, agency problems, scale effects, and decision processes in organizations such as [[entities/berkshire-hathaway|Berkshire Hathaway]].
-
+- **Mathematical problem solving:** Value the thinking process and the ability to examine a problem from multiple angles, recognizing that reasoning quality and perspective-taking can be more valuable than the final answer alone.
 ## Related Concepts
 
 - [[concepts/lollapalooza-effect|Lollapalooza Effect]]
-- [[concepts/inversion|Inversion]]
+- [[concepts/反过来想|Inversion]]
 - [[concepts/worldly-wisdom|Worldly Wisdom]]
 - [[concepts/psychology-of-human-misjudgment|Psychology of Human Misjudgment]]
 - [[concepts/checklist|Checklist]]
@@ -70,12 +74,12 @@ Multiple Mental Models is [[entities/charles-t-munger|Charles T. Munger]]’s me
 - [[entities/richard-thaler|Richard Thaler]]
 - [[entities/university-of-chicago|University of Chicago]]
 - [[entities/robert-b-cialdini|Robert B. Cialdini]]
-- [[entities/moat|Moat]]
+- [[moat|Moat]]
 - [[entities/mr-market|Mr. Market]]
 - [[entities/opportunity-cost|Opportunity Cost]]
 - [[entities/behavioral-economics|Behavioral Economics]]
 - [[entities/social-proof-tendency|Social-Proof Tendency]]
-- [[entities/deprival-super-reaction-tendency|Deprival-Super Reaction Tendency]]
+- [[deprival-super-reaction-tendency|Deprival-Super Reaction Tendency]]
 - [[entities/reason-respecting-tendency|Reason-Respecting Tendency]]
 - [[entities/availability-misweighing-tendency|Availability-Misweighing Tendency]]
 - [[entities/use-it-or-lose-it-tendency|Use-It-or-Lose-It Tendency]]
@@ -100,6 +104,7 @@ Multiple Mental Models is [[entities/charles-t-munger|Charles T. Munger]]’s me
 
 ## Mentions in Source
 
-- "He calls the tools he uses to conduct this review "Multiple Mental Models.""
-- "You must know the big ideas in the big disciplines and use them routinely-all of them, not just a few."
-- "When properly collected and organized, his Multiple Mental Models (about one hundred in number, he estimates) provide a context or "latticework" that leads to remarkable insights as to the purpose and nature of life."
+- "He calls the tools he uses to conduct this review "Multiple Mental Models."" — [[4/daily/2026-09-13|2026-09-13]]
+- "You must know the big ideas in the big disciplines and use them routinely-all of them, not just a few." — [[4/daily/2026-09-13|2026-09-13]]
+- "When properly collected and organized, his Multiple Mental Models (about one hundred in number, he estimates) provide a context or "latticework" that leads to remarkable insights as to the purpose and nature of life." — [[4/daily/2026-09-13|2026-09-13]]
+- "什么是有价值的东西，多学科模型，多个角度看问题，数学，物理，工程，生物，心理学，历史，经济，化学，统计学，坚持学起来，学习" (What are valuable things? Multidisciplinary models and examining problems from multiple angles: mathematics, physics, engineering, biology, psychology, history, economics, chemistry, and statistics. Keep studying and learning.) — [[4/daily/2026-09-13|2026-09-13]]

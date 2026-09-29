@@ -91,6 +91,6 @@ Anticholinergic medications are used acutely to reverse medication-induced [[Dys
 
 ## Mentions in Source
 
-- "The treatment varies by the type of the EPS, but may involve anticholinergic agents such as procyclidine, benztropine, diphenhydramine, and trihexyphenidyl." — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
-- "Anticholinergic medications are used to reverse acute dystonia." — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
-- "Anticholinergic medications are not helpful for treating akathisia.[^9]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "The treatment varies by the type of the EPS, but may involve anticholinergic agents such as procyclidine, benztropine, diphenhydramine, and trihexyphenidyl." — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Anticholinergic medications are used to reverse acute dystonia." — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Anticholinergic medications are not helpful for treating akathisia.[^9]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

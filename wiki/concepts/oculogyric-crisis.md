@@ -90,5 +90,5 @@ Oculogyric crisis is used clinically to identify and classify an acute dystonic 
 
 ## Mentions in Source
 
-- "Oculogyric crisis is a kind of acute dystonic reaction that involves the prolonged involuntary upward deviation of the eyes." — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
-- "Acute dystonic reactions: painful, muscular spasms of neck, jaw, back, extremities, eyes, throat, and tongue; highest risk in young men.[^2] [^12]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Oculogyric crisis is a kind of acute dystonic reaction that involves the prolonged involuntary upward deviation of the eyes." — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Acute dystonic reactions: painful, muscular spasms of neck, jaw, back, extremities, eyes, throat, and tongue; highest risk in young men.[^2] [^12]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

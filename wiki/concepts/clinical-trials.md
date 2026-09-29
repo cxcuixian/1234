@@ -90,4 +90,4 @@ Clinical trials are used to compare [[concepts/typical-antipsychotic|typical ant
 
 ## Mentions in Source
 
-- "Extrapyramidal symptoms are a reason why subjects drop out of clinical trials of antipsychotics; of the 213 (14.6%) subjects that dropped out of one of the largest clinical trials of antipsychotics (the CATIE trial \[Clinical Antipsychotic Trials for Intervention Effectiveness\], which included 1460 randomized subjects), 58 (27.2%) of those discontinuations were due to EPS.[^3]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Extrapyramidal symptoms are a reason why subjects drop out of clinical trials of antipsychotics; of the 213 (14.6%) subjects that dropped out of one of the largest clinical trials of antipsychotics (the CATIE trial \[Clinical Antipsychotic Trials for Intervention Effectiveness\], which included 1460 randomized subjects), 58 (27.2%) of those discontinuations were due to EPS.[^3]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

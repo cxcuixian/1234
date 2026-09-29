@@ -79,4 +79,4 @@ Serotonin-norepinephrine reuptake inhibitors are an antidepressant class associa
 
 ## Mentions in Source
 
-- "Short and long-term use of antidepressants such as [selective serotonin reuptake inhibitors](https://en.wikipedia.org/wiki/Selective_serotonin_reuptake_inhibitors "Selective serotonin reuptake inhibitors") (SSRI), [serotonin-norepinephrine reuptake inhibitors](https://en.wikipedia.org/wiki/Serotonin-norepinephrine_reuptake_inhibitors "Serotonin-norepinephrine reuptake inhibitors") (SNRI), and [norepinephrine-dopamine reuptake inhibitors]..." — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Short and long-term use of antidepressants such as [selective serotonin reuptake inhibitors](https://en.wikipedia.org/wiki/Selective_serotonin_reuptake_inhibitors "Selective serotonin reuptake inhibitors") (SSRI), [serotonin-norepinephrine reuptake inhibitors](https://en.wikipedia.org/wiki/Serotonin-norepinephrine_reuptake_inhibitors "Serotonin-norepinephrine reuptake inhibitors") (SNRI), and [norepinephrine-dopamine reuptake inhibitors]..." — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

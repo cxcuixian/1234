@@ -90,4 +90,4 @@ Serotonin 5-HT2A receptor affinity is used to characterize and compare antipsych
 
 ## Mentions in Source
 
-- "Atypical antipsychotics have lower D <sub>2</sub> receptor affinity or higher serotonin 5-HT <sub>2A</sub> receptor affinity which lead to lower rates of EPS.[^5]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Atypical antipsychotics have lower D <sub>2</sub> receptor affinity or higher serotonin 5-HT <sub>2A</sub> receptor affinity which lead to lower rates of EPS.[^5]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

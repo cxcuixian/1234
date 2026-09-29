@@ -92,5 +92,5 @@ Typical antipsychotics are used in the treatment of psychotic disorders and othe
 
 ## Mentions in Source
 
-- "Extrapyramidal symptoms are most commonly caused by typical antipsychotic drugs that antagonize dopamine D <sub>2</sub> receptors.[^2]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
-- "The most common typical antipsychotics associated with EPS are haloperidol and fluphenazine.[^4]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Extrapyramidal symptoms are most commonly caused by typical antipsychotic drugs that antagonize dopamine D <sub>2</sub> receptors.[^2]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "The most common typical antipsychotics associated with EPS are haloperidol and fluphenazine.[^4]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

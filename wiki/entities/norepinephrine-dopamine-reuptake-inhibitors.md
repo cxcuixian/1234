@@ -79,4 +79,4 @@ Norepinephrine-dopamine reuptake inhibitors are an antidepressant class discusse
 
 ## Mentions in Source
 
-- "Short and long-term use of antidepressants such as [selective serotonin reuptake inhibitors](https://en.wikipedia.org/wiki/Selective_serotonin_reuptake_inhibitors "Selective serotonin reuptake inhibitors") (SSRI), [serotonin-norepinephrine reuptake inhibitors](https://en.wikipedia.org/wiki/Serotonin-norepinephrine_reuptake_inhibitors "Norepinephrine-dopamine reuptake inhibitors") (NDRI) have also resulted in EPS.[^7]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Short and long-term use of antidepressants such as [selective serotonin reuptake inhibitors](https://en.wikipedia.org/wiki/Selective_serotonin_reuptake_inhibitors "Selective serotonin reuptake inhibitors") (SSRI), [serotonin-norepinephrine reuptake inhibitors](https://en.wikipedia.org/wiki/Serotonin-norepinephrine_reuptake_inhibitors "Norepinephrine-dopamine reuptake inhibitors") (NDRI) have also resulted in EPS.[^7]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

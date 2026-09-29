@@ -78,4 +78,4 @@ The Simpson-Angus Scale is a clinical rating scale used to assess the severity o
 
 ## Mentions in Source
 
-- "The Simpson-Angus Scale (SAS), Barnes Akathisia Rating Scale (BARS), Abnormal Involuntary Movement Scale (AIMS), and Extrapyramidal Symptom Rating Scale (ESRS) are rating scales frequently used for such assessment and are not weighted for diagnostic purposes;[^2] these scales can help clinicians weigh the benefit/expected benefit of a medication against the degree of distress which the side effects are causing the patient, aiding in the ..." — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "The Simpson-Angus Scale (SAS), Barnes Akathisia Rating Scale (BARS), Abnormal Involuntary Movement Scale (AIMS), and Extrapyramidal Symptom Rating Scale (ESRS) are rating scales frequently used for such assessment and are not weighted for diagnostic purposes;[^2] these scales can help clinicians weigh the benefit/expected benefit of a medication against the degree of distress which the side effects are causing the patient, aiding in the ..." — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

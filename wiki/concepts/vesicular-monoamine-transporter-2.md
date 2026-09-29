@@ -89,5 +89,5 @@ VMAT2 is a therapeutic target in the treatment of [[Tardive dyskinesia]]. The VM
 
 ## Mentions in Source
 
-- "When other measures fail or are not feasible, medications are used to treat tardive dyskinesia." — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
-- "These include the vesicular monoamine transporter 2 inhibitors tetrabenazine and deutetrabenazine.[^9]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "When other measures fail or are not feasible, medications are used to treat tardive dyskinesia." — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "These include the vesicular monoamine transporter 2 inhibitors tetrabenazine and deutetrabenazine.[^9]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

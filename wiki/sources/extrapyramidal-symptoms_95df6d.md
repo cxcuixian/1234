@@ -2,9 +2,12 @@
 type: source
 created: 2026-09-14
 updated: 2026-09-14
-source_file: "[[4/Extrapyramidal symptoms.md]]"
-tags: [clippings]
-aliases: ["Extrapyramidal side effects", "EPS"]
+source_file: "[[Extrapyramidal symptoms]]"
+tags:
+  - clippings
+aliases:
+  - Extrapyramidal side effects
+  - EPS
 contentHash: 5021-697b2ffc
 generation_complete: true
 ---
@@ -13,7 +16,7 @@ generation_complete: true
 
 ## Source
 
-- Original file: [[4/Extrapyramidal symptoms.md]]
+- Original file: [[Extrapyramidal symptoms]]
 - Ingested: 2026-09-14
 
 ## Core Content
@@ -63,8 +66,8 @@ Extrapyramidal symptoms (EPS), also called extrapyramidal side effects, are move
 
 ## Mentions in Source
 
-- "Extrapyramidal symptoms are a reason why subjects drop out of clinical trials of antipsychotics; of the 213 (14.6%) subjects that dropped out of one of the largest clinical trials of antipsychotics (the CATIE trial [Clinical Antipsychotic Trials for Intervention Effectiveness], which included 1460 randomized subjects), 58 (27.2%) of those discontinuations were due to EPS.[^3]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
-- "The most common typical antipsychotics associated with EPS are haloperidol and fluphenazine.[^4]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
-- "These medications possess an additional mode of action that is believed to mitigate their effect on the nigrostriatal pathway, which means they are associated with fewer extrapyramidal side-effects than "conventional" antipsychotics (chlorpromazine, haloperidol, etc.) [^13]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
-- "The most common [typical antipsychotics](https://en.wikipedia.org/wiki/Typical_antipsychotics "Typical antipsychotics") associated with EPS are [haloperidol](https://en.wikipedia.org/wiki/Haloperidol "Haloperidol") and [fluphenazine](https://en.wikipedia.org/wiki/Fluphenazine "Fluphenazine").[^4]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
-- "Other anti-dopaminergic drugs, like the antiemetic [metoclopramide](https://en.wikipedia.org/wiki/Metoclopramide "Metoclopramide"), can also result in extrapyramidal side effects.[^6]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Extrapyramidal symptoms are a reason why subjects drop out of clinical trials of antipsychotics; of the 213 (14.6%) subjects that dropped out of one of the largest clinical trials of antipsychotics (the CATIE trial [Clinical Antipsychotic Trials for Intervention Effectiveness], which included 1460 randomized subjects), 58 (27.2%) of those discontinuations were due to EPS.[^3]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "The most common typical antipsychotics associated with EPS are haloperidol and fluphenazine.[^4]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "These medications possess an additional mode of action that is believed to mitigate their effect on the nigrostriatal pathway, which means they are associated with fewer extrapyramidal side-effects than "conventional" antipsychotics (chlorpromazine, haloperidol, etc.) [^13]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "The most common [typical antipsychotics](https://en.wikipedia.org/wiki/Typical_antipsychotics "Typical antipsychotics") associated with EPS are [haloperidol](https://en.wikipedia.org/wiki/Haloperidol "Haloperidol") and [fluphenazine](https://en.wikipedia.org/wiki/Fluphenazine "Fluphenazine").[^4]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Other anti-dopaminergic drugs, like the antiemetic [metoclopramide](https://en.wikipedia.org/wiki/Metoclopramide "Metoclopramide"), can also result in extrapyramidal side effects.[^6]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

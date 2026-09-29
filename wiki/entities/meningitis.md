@@ -77,5 +77,5 @@ Meningitis is identified as a non-medication-related cause that can produce [[co
 
 ## Mentions in Source
 
-- "Other causes of extrapyramidal symptoms can include brain damage and meningitis.[^8]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
-- "However, the term "extrapyramidal symptoms" generally refers to medication-induced causes in the field of psychiatry.[^9]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Other causes of extrapyramidal symptoms can include brain damage and meningitis.[^8]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "However, the term "extrapyramidal symptoms" generally refers to medication-induced causes in the field of psychiatry.[^9]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

@@ -75,4 +75,4 @@ Tremor is an involuntary, rhythmic movement and one of the characteristic parkin
 
 ## Mentions in Source
 
-- "They include [movement dysfunction](https://en.wikipedia.org/wiki/Movement_disorder "Movement disorder") such as [dystonia](https://en.wikipedia.org/wiki/Dystonia "Dystonia") (continuous spasms and muscle contractions), [akathisia](https://en.wikipedia.org/wiki/Akathisia "Akathisia") (may manifest as motor restlessness),[^1] [parkinsonism](https://en.wikipedia.org/wiki/Parkinsonism "Parkinsonism") characteristic symptoms such as [rigidit..." — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "They include [movement dysfunction](https://en.wikipedia.org/wiki/Movement_disorder "Movement disorder") such as [dystonia](https://en.wikipedia.org/wiki/Dystonia "Dystonia") (continuous spasms and muscle contractions), [akathisia](https://en.wikipedia.org/wiki/Akathisia "Akathisia") (may manifest as motor restlessness),[^1] [parkinsonism](https://en.wikipedia.org/wiki/Parkinsonism "Parkinsonism") characteristic symptoms such as [rigidit..." — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

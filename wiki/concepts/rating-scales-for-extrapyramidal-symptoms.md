@@ -93,4 +93,4 @@ Findings may inform decisions about dose reduction, medication discontinuation, 
 
 ## Mentions in Source
 
-- "Since it is difficult to measure extrapyramidal symptoms, rating scales are commonly used to assess the severity of movement disorders." — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Since it is difficult to measure extrapyramidal symptoms, rating scales are commonly used to assess the severity of movement disorders." — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

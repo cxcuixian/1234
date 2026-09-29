@@ -92,5 +92,5 @@ Examples include the use of [[Amantadine]] for selected extrapyramidal symptoms,
 
 ## Mentions in Source
 
-- "Medications are used to reverse the symptoms of extrapyramidal side effects caused by antipsychotics or other drugs, by either directly or indirectly increasing dopaminergic neurotransmission." — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
-- "Certain medications such as dopamine agonists are not used, as they may worsen psychotic symptoms to those taking neuroleptic drugs." — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Medications are used to reverse the symptoms of extrapyramidal side effects caused by antipsychotics or other drugs, by either directly or indirectly increasing dopaminergic neurotransmission." — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Certain medications such as dopamine agonists are not used, as they may worsen psychotic symptoms to those taking neuroleptic drugs." — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

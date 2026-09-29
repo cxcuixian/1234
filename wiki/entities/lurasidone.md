@@ -78,5 +78,5 @@ Lurasidone is a second-generation [[concepts/atypical-antipsychotic|atypical ant
 
 ## Mentions in Source
 
-- "Certain second-generation antipsychotics, such as lurasidone and the partial D2-agonist [aripiprazole](https://en.wikipedia.org/wiki/Aripiprazole "Aripiprazole"), are more likely to cause akathisia compared to other second-generation antipsychotics.[^14]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
-- "If akathisia occurs, switching to an antipsychotic with a lower risk of akathisia may improve symptoms.[^15]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Certain second-generation antipsychotics, such as lurasidone and the partial D2-agonist [aripiprazole](https://en.wikipedia.org/wiki/Aripiprazole "Aripiprazole"), are more likely to cause akathisia compared to other second-generation antipsychotics.[^14]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "If akathisia occurs, switching to an antipsychotic with a lower risk of akathisia may improve symptoms.[^15]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

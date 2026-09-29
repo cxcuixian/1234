@@ -78,4 +78,4 @@ Chlorpromazine is a conventional, or [[concepts/typical-antipsychotic|typical an
 
 ## Mentions in Source
 
-- "These medications possess an additional mode of action that is believed to mitigate their effect on the [nigrostriatal](https://en.wikipedia.org/wiki/Nigrostriatal "Nigrostriatal") pathway, which means they are associated with fewer extrapyramidal side-effects than "conventional" antipsychotics ([chlorpromazine](https://en.wikipedia.org/wiki/Chlorpromazine "Chlorpromazine"), [haloperidol](https://en.wikipedia.org/wiki/Haloperidol "Halope..." — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "These medications possess an additional mode of action that is believed to mitigate their effect on the [nigrostriatal](https://en.wikipedia.org/wiki/Nigrostriatal "Nigrostriatal") pathway, which means they are associated with fewer extrapyramidal side-effects than "conventional" antipsychotics ([chlorpromazine](https://en.wikipedia.org/wiki/Chlorpromazine "Chlorpromazine"), [haloperidol](https://en.wikipedia.org/wiki/Haloperidol "Halope..." — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

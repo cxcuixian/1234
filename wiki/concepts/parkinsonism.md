@@ -94,6 +94,6 @@ Treatment generally begins by withdrawing or changing the causative medication w
 
 ## Mentions in Source
 
-- "They include movement dysfunction such as dystonia (continuous spasms and muscle contractions), akathisia (may manifest as motor restlessness),[^1] parkinsonism characteristic symptoms such as rigidity, bradykinesia (slowness of movement), tremor, and tardive dyskinesia (irregular, jerky movements).[^2]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
-- "Pseudoparkinsonism: drug-induced parkinsonism (rigidity, bradykinesia, tremor, masked facies, shuffling gait, stooped posture, sialorrhoea, and seborrhoea; greater risk in the elderly).[^2]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
-- "Medication interventions are generally reserved for cases in which withdrawing the medication that caused the pseudoparkinsonism is either ineffective or infeasible." — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "They include movement dysfunction such as dystonia (continuous spasms and muscle contractions), akathisia (may manifest as motor restlessness),[^1] parkinsonism characteristic symptoms such as rigidity, bradykinesia (slowness of movement), tremor, and tardive dyskinesia (irregular, jerky movements).[^2]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Pseudoparkinsonism: drug-induced parkinsonism (rigidity, bradykinesia, tremor, masked facies, shuffling gait, stooped posture, sialorrhoea, and seborrhoea; greater risk in the elderly).[^2]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Medication interventions are generally reserved for cases in which withdrawing the medication that caused the pseudoparkinsonism is either ineffective or infeasible." — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

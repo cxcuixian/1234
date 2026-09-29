@@ -1,11 +1,12 @@
 ---
 type: entity
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-09-23
 generation_complete: true
 sources:
   - "[[sources/2026-08-28_c1f237]]"
   - "[[sources/2026-09-07_931e86]]"
+  - "[[sources/2026-09-09_86836a]]"
 tags:
   - "product"
 aliases:
@@ -19,6 +20,8 @@ aliases:
 ABAQUS is a commercial engineering simulation software package used as a benchmark and as a long-term learning companion. The source associates it with [[concepts/测试|testing]], technical understanding, outputting the B matrix, and building a [[concepts/个人知识体系|personal knowledge system]]. It is presented not merely as a tool, but as an environment through which the writer can grow while mastering an engineering direction. ABAQUS is connected to the emphasis on understanding principles before pursuing broader progress, as well as to [[concepts/底层思维|understanding principles]] and [[concepts/先把一个东西完全做通|fully mastering one thing first]].
 
 ABAQUS’s requirement for an intermediate position is presented as a continuation of calculus thinking rather than an arbitrary software convention. This interpretation deepens the emphasis on understanding the principles behind its modeling workflow.
+
+The source also expresses strong frustration that, without a tool for cracking or accessing the software, ABAQUS is perceived as practically useless under those conditions.
 ## Related Entities
 
 - [[entities/陈俊洁|陈俊洁]]
@@ -56,3 +59,4 @@ ABAQUS’s requirement for an intermediate position is presented as a continuati
 
 - "ABAQUS的基准，测试，量价背离，根本不用担心卖飞，根本卖不飞" (ABAQUS benchmarks, testing, and price-volume divergence; there is fundamentally no need to worry about selling too early, because it fundamentally cannot be sold too early.) — [[4/daily/2026-08-28|2026-08-28]]
 - "ABAQUS为啥需要一个中间位置，本质上是微积分思想的延续" — [[4/daily/2026-09-07|2026-09-07]]
+- "没有破解工具，ABAQUS就是废物" — [[4/daily/2026-09-09|2026-09-09]]

@@ -16,7 +16,7 @@ generation_complete: true
 
 ## Description
 
-See's Candies is presented in [[sources/poor-charlies-almanack_38aa4e|Poor Charlie's Almanack]] as a decisive case study in the evolution of [[Charles T. Munger|Charles T. Munger]] and [[Warren Buffett|Warren Buffett's]] investment philosophy. Its pricing power, brand strength, customer loyalty, and durable economics demonstrated why an excellent business could justify paying more than traditional [[Benjamin Graham|Graham-style]] metrics might suggest. The company helped illustrate the importance of a durable competitive advantage, or [[Moat|moat]], and the role of [[Opportunity Cost|opportunity cost]] in capital allocation. Constructive criticism surrounding See's Candies also contributed to changes in Munger and Buffett's thinking about high-quality businesses.
+See's Candies is presented in [[sources/poor-charlies-almanack_38aa4e|Poor Charlie's Almanack]] as a decisive case study in the evolution of [[Charles T. Munger|Charles T. Munger]] and [[Warren Buffett|Warren Buffett's]] investment philosophy. Its pricing power, brand strength, customer loyalty, and durable economics demonstrated why an excellent business could justify paying more than traditional [[Benjamin Graham|Graham-style]] metrics might suggest. The company helped illustrate the importance of a durable competitive advantage, or [[moat|moat]], and the role of [[Opportunity Cost|opportunity cost]] in capital allocation. Constructive criticism surrounding See's Candies also contributed to changes in Munger and Buffett's thinking about high-quality businesses.
 
 ## Related Entities
 
@@ -24,7 +24,7 @@ See's Candies is presented in [[sources/poor-charlies-almanack_38aa4e|Poor Charl
 - [[entities/warren-buffett|Warren Buffett]]
 - [[entities/berkshire-hathaway|Berkshire Hathaway]]
 - [[entities/coca-cola|Coca-Cola]]
-- [[entities/moat|Moat]]
+- [[moat|Moat]]
 - [[entities/opportunity-cost|Opportunity Cost]]
 - [[entities/benjamin-franklin|Benjamin Franklin]]
 - [[entities/cicero|Cicero]]
@@ -41,7 +41,7 @@ See's Candies is presented in [[sources/poor-charlies-almanack_38aa4e|Poor Charl
 - [[entities/mr-market|Mr. Market]]
 - [[entities/behavioral-economics|Behavioral Economics]]
 - [[entities/social-proof-tendency|Social-Proof Tendency]]
-- [[entities/deprival-super-reaction-tendency|Deprival-Super Reaction Tendency]]
+- [[deprival-super-reaction-tendency|Deprival-Super Reaction Tendency]]
 - [[entities/reason-respecting-tendency|Reason-Respecting Tendency]]
 - [[entities/availability-misweighing-tendency|Availability-Misweighing Tendency]]
 - [[entities/use-it-or-lose-it-tendency|Use-It-or-Lose-It Tendency]]

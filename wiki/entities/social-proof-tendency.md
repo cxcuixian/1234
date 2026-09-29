@@ -22,7 +22,7 @@ Social-Proof Tendency is the tendency to think or act as nearby people appear to
 
 - [[entities/charles-t-munger|Charles T. Munger]]
 - [[entities/coca-cola|Coca-Cola]]
-- [[entities/deprival-super-reaction-tendency|Deprival-Super Reaction Tendency]]
+- [[deprival-super-reaction-tendency|Deprival-Super Reaction Tendency]]
 - [[entities/warren-buffett|Warren Buffett]]
 - [[entities/berkshire-hathaway|Berkshire Hathaway]]
 - [[entities/benjamin-franklin|Benjamin Franklin]]
@@ -38,7 +38,7 @@ Social-Proof Tendency is the tendency to think or act as nearby people appear to
 - [[entities/richard-thaler|Richard Thaler]]
 - [[entities/university-of-chicago|University of Chicago]]
 - [[entities/robert-b-cialdini|Robert B. Cialdini]]
-- [[entities/moat|Moat]]
+- [[moat|Moat]]
 - [[entities/mr-market|Mr. Market]]
 - [[entities/opportunity-cost|Opportunity Cost]]
 - [[entities/behavioral-economics|Behavioral Economics]]

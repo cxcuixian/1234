@@ -16,7 +16,7 @@ generation_complete: true
 
 ## Description
 
-Economies of scale are cost, distribution, information, specialization, and demand advantages that arise as an operation becomes larger. Larger organizations may reduce unit costs through geometry, purchasing power, advertising reach, learning effects, distribution networks, and [[Social-Proof Tendency|social proof]]. Examples associated with [[Charles T. Munger|Charles T. Munger]] include [[Coca-Cola]], chain stores, [[Sam Walton]], [[Sears, Roebuck]], [[Costco]], newspapers, and large corporations. Scale can create durable advantages and a [[Moat]], but it can also produce bureaucracy, territorial behavior, slow decisions, and organizational corruption, resulting in [[Competitive Destruction]] and costly rigidity. The practical value of scale therefore depends on whether growth strengthens productive capabilities or amplifies organizational weaknesses.
+Economies of scale are cost, distribution, information, specialization, and demand advantages that arise as an operation becomes larger. Larger organizations may reduce unit costs through geometry, purchasing power, advertising reach, learning effects, distribution networks, and [[Social-Proof Tendency|social proof]]. Examples associated with [[Charles T. Munger|Charles T. Munger]] include [[Coca-Cola]], chain stores, [[Sam Walton]], [[Sears, Roebuck]], [[Costco]], newspapers, and large corporations. Scale can create durable advantages and a [[moat]], but it can also produce bureaucracy, territorial behavior, slow decisions, and organizational corruption, resulting in [[Competitive Destruction]] and costly rigidity. The practical value of scale therefore depends on whether growth strengthens productive capabilities or amplifies organizational weaknesses.
 
 ## Related Entities
 
@@ -24,7 +24,7 @@ Economies of scale are cost, distribution, information, specialization, and dema
 - [[entities/sam-walton|Sam Walton]]
 - [[entities/sears-roebuck|Sears, Roebuck]]
 - [[entities/competitive-destruction|Competitive Destruction]]
-- [[entities/moat|Moat]]
+- [[moat|Moat]]
 - [[entities/social-proof-tendency|Social-Proof Tendency]]
 - [[entities/charles-t-munger|Charles T. Munger]]
 - [[entities/warren-buffett|Warren Buffett]]
@@ -45,7 +45,7 @@ Economies of scale are cost, distribution, information, specialization, and dema
 - [[entities/mr-market|Mr. Market]]
 - [[entities/opportunity-cost|Opportunity Cost]]
 - [[entities/behavioral-economics|Behavioral Economics]]
-- [[entities/deprival-super-reaction-tendency|Deprival-Super Reaction Tendency]]
+- [[deprival-super-reaction-tendency|Deprival-Super Reaction Tendency]]
 - [[entities/reason-respecting-tendency|Reason-Respecting Tendency]]
 - [[entities/availability-misweighing-tendency|Availability-Misweighing Tendency]]
 - [[entities/use-it-or-lose-it-tendency|Use-It-or-Lose-It Tendency]]

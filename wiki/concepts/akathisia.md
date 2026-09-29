@@ -90,5 +90,5 @@ Akathisia is used in clinical assessment to identify and monitor medication-rela
 
 ## Mentions in Source
 
-- "Akathisia: A feeling of internal motor restlessness that can present as tension, nervousness, or anxiety.[^2] Clinical manifestations include pacing and an inability to sit still.[^12]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
-- "Certain second-generation antipsychotics, such as lurasidone and the partial D2-agonist aripiprazole, are more likely to cause akathisia compared to other second-generation antipsychotics.[^14]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Akathisia: A feeling of internal motor restlessness that can present as tension, nervousness, or anxiety.[^2] Clinical manifestations include pacing and an inability to sit still.[^12]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Certain second-generation antipsychotics, such as lurasidone and the partial D2-agonist aripiprazole, are more likely to cause akathisia compared to other second-generation antipsychotics.[^14]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

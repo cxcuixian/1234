@@ -34,7 +34,7 @@ The **Lollapalooza Effect** is an extreme outcome produced when multiple psychol
 The Lollapalooza Effect helps explain how several reinforcing forces can produce unusually strong results in:
 
 - **Business and brands:** The interaction of product quality, habit, distribution, reputation, scale, and customer loyalty can create exceptionally durable businesses such as [[Coca-Cola]], [[See's Candies]], and [[Costco]].
-- **Investment analysis:** Multiple advantages, including a [[Moat]], favorable incentives, [[Economies of Scale]], and a long investment horizon, can combine to produce extraordinary business performance and investment returns.
+- **Investment analysis:** Multiple advantages, including a [[moat]], favorable incentives, [[Economies of Scale]], and a long investment horizon, can combine to produce extraordinary business performance and investment returns.
 - **Incentive systems:** Strong or poorly designed incentives can interact with social pressure and self-serving bias, producing extreme behavior and outcomes.
 - **Psychological influence:** The [[Milgram experiment]] demonstrates how authority, gradual commitment, and situational pressure can reinforce one another.
 - **Economic systems:** Credit expansion, social imitation, institutional incentives, and expectations can combine to create bubbles, crashes, and other systemic outcomes.
@@ -74,11 +74,11 @@ The Lollapalooza Effect helps explain how several reinforcing forces can produce
 - [[entities/richard-thaler|Richard Thaler]]
 - [[entities/university-of-chicago|University of Chicago]]
 - [[entities/robert-b-cialdini|Robert B. Cialdini]]
-- [[entities/moat|Moat]]
+- [[moat|Moat]]
 - [[entities/mr-market|Mr. Market]]
 - [[entities/opportunity-cost|Opportunity Cost]]
 - [[entities/behavioral-economics|Behavioral Economics]]
-- [[entities/deprival-super-reaction-tendency|Deprival-Super Reaction Tendency]]
+- [[deprival-super-reaction-tendency|Deprival-Super Reaction Tendency]]
 - [[entities/reason-respecting-tendency|Reason-Respecting Tendency]]
 - [[entities/availability-misweighing-tendency|Availability-Misweighing Tendency]]
 - [[entities/use-it-or-lose-it-tendency|Use-It-or-Lose-It Tendency]]

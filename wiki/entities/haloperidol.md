@@ -77,5 +77,5 @@ Haloperidol is a typical antipsychotic medication and a dopamine D2 receptor ant
 
 ## Mentions in Source
 
-- "The most common typical antipsychotics associated with EPS are haloperidol and fluphenazine.[^4]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
-- "These medications possess an additional mode of action that is believed to mitigate their effect on the nigrostriatal pathway, which means they are associated with fewer extrapyramidal side-effects than "conventional" antipsychotics (chlorpromazine, haloperidol, etc.) [^13]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "The most common typical antipsychotics associated with EPS are haloperidol and fluphenazine.[^4]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "These medications possess an additional mode of action that is believed to mitigate their effect on the nigrostriatal pathway, which means they are associated with fewer extrapyramidal side-effects than "conventional" antipsychotics (chlorpromazine, haloperidol, etc.) [^13]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

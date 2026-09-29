@@ -78,5 +78,5 @@ Sertraline is an antidepressant medication that the source lists as associated w
 
 ## Mentions in Source
 
-- "Short and long-term use of antidepressants such as selective serotonin reuptake inhibitors (SSRI), serotonin-norepinephrine reuptake inhibitors (SNRI), and norepinephrine-dopamine reuptake inhibitors (NDRI) have also resulted in EPS." — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
-- "Specifically, duloxetine, sertraline, escitalopram, fluoxetine, and bupropion have been linked to the induction of EPS." — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Short and long-term use of antidepressants such as selective serotonin reuptake inhibitors (SSRI), serotonin-norepinephrine reuptake inhibitors (SNRI), and norepinephrine-dopamine reuptake inhibitors (NDRI) have also resulted in EPS." — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Specifically, duloxetine, sertraline, escitalopram, fluoxetine, and bupropion have been linked to the induction of EPS." — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

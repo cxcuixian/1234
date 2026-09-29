@@ -91,4 +91,4 @@ Parkinson's disease is used as a clinical and physiological reference point when
 
 ## Mentions in Source
 
-- "Although [Parkinson's disease](https://en.wikipedia.org/wiki/Parkinson's_disease "Parkinson's disease") is primarily a disease of the [nigrostriatal pathway](https://en.wikipedia.org/wiki/Nigrostriatal_pathway "Nigrostriatal pathway") and not the extrapyramidal system, loss of dopaminergic neurons in the [substantia nigra](https://en.wikipedia.org/wiki/Substantia_nigra "Substantia nigra") leads to dysregulation of the extrapyramidal syst..." — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Although [Parkinson's disease](https://en.wikipedia.org/wiki/Parkinson's_disease "Parkinson's disease") is primarily a disease of the [nigrostriatal pathway](https://en.wikipedia.org/wiki/Nigrostriatal_pathway "Nigrostriatal pathway") and not the extrapyramidal system, loss of dopaminergic neurons in the [substantia nigra](https://en.wikipedia.org/wiki/Substantia_nigra "Substantia nigra") leads to dysregulation of the extrapyramidal syst..." — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

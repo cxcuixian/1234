@@ -92,4 +92,4 @@ Tardive dyskinesia is used in the clinical classification and assessment of [[Ex
 
 ## Mentions in Source
 
-- "They include movement dysfunction such as dystonia (continuous spasms and muscle contractions), akathisia (may manifest as motor restlessness),[^1] parkinsonism characteristic symptoms such as rigidity, bradykinesia (slowness of movement), tremor, and tardive dyskinesia (irregular, jerky movements).[^2]" — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "They include movement dysfunction such as dystonia (continuous spasms and muscle contractions), akathisia (may manifest as motor restlessness),[^1] parkinsonism characteristic symptoms such as rigidity, bradykinesia (slowness of movement), tremor, and tardive dyskinesia (irregular, jerky movements).[^2]" — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]

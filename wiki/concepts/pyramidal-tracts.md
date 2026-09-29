@@ -89,4 +89,4 @@ generation_complete: true
 
 ## Mentions in Source
 
-- "Extrapyramidal symptoms (also called extrapyramidal side effects) get their name because they are symptoms of disorders in the [extrapyramidal system](https://en.wikipedia.org/wiki/Extrapyramidal_system "Extrapyramidal system"), which regulates posture and skeletal muscle tone." — [[4/Extrapyramidal symptoms|Extrapyramidal symptoms]]
+- "Extrapyramidal symptoms (also called extrapyramidal side effects) get their name because they are symptoms of disorders in the [extrapyramidal system](https://en.wikipedia.org/wiki/Extrapyramidal_system "Extrapyramidal system"), which regulates posture and skeletal muscle tone." — [[Extrapyramidal symptoms|Extrapyramidal symptoms]]
