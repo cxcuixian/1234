@@ -2,5 +2,6 @@
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "hyphenation-and-justification"
-  ]
+  ],
+  "baseFontSizeAction": true
 }
